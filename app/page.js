@@ -14,6 +14,21 @@ export default function Home() {
         name="아루(정월)"
         nameEn="Aru_New"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/qsjggcQ/Eimi-Thumb.webp"
+        name="에이미"
+        nameEn="Eimi"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/w6LhJhB/Haruna-Thumb.webp"
+        name="하루나"
+        nameEn="Haruna"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/h1SGQj1/Hifumi-Thumb.webp"
+        name="히후미"
+        nameEn="Hifumi"
+      />
     </div>
   );
 }

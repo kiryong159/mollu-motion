@@ -29,6 +29,26 @@ export default function Home() {
         name="히후미"
         nameEn="Hifumi"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/q7XNRXC/Hoshino-Thumb.webp"
+        name="호시노"
+        nameEn="Hoshino"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/DYzmG7m/Iori-Thumb.webp"
+        name="이오리"
+        nameEn="Iori"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/hysVqTs/Maki-Thumb.webp"
+        name="마키"
+        nameEn="Maki"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/dj7c8h0/Neru-Thumb.webp"
+        name="네루"
+        nameEn="Neru"
+      />
     </div>
   );
 }

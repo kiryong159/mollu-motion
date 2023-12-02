@@ -32,6 +32,9 @@ export default function Haruna() {
 
       <h1 className="text-center text-[25px] font-bold">편성창</h1>
       <img src="https://i.ibb.co/8Mz2X2y/Haruna-Pick.gif" alt="Haruna-Pick" />
+
+      <h1 className="text-center text-[25px] font-bold">카페</h1>
+      <img src="https://i.ibb.co/GvvWsKn/Haruna-Cafe.gif" alt="Haruna-Cafe" />
     </div>
   );
 }

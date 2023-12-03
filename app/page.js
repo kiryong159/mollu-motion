@@ -69,6 +69,16 @@ export default function Home() {
         name="스미레"
         nameEn="Sumire"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/MMS55jD/Tsurugi-Thumb.webp"
+        name="츠루기"
+        nameEn="Tsurugi"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/zxDyTCc/Akane-Thumb.webp"
+        name="아카네"
+        nameEn="Akane"
+      />
     </div>
   );
 }

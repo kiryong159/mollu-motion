@@ -79,6 +79,21 @@ export default function Home() {
         name="아카네"
         nameEn="Akane"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/FbYRcc1/Chise-Thumb.webp"
+        name="치세"
+        nameEn="Chise"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/YbQ3rNR/Akari-Thumb.webp"
+        name="아카리"
+        nameEn="Akari"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/YTFXMc7/Hasumi-Thumb.webp"
+        name="하스미"
+        nameEn="Hasumi"
+      />
     </div>
   );
 }

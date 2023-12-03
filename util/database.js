@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
-const url =
-  "mongodb+srv://kiryong159:Mollumotion@mollumotion.iif7uxc.mongodb.net/?retryWrites=true&w=majority";
+const PW = process.env.MONGO_PW;
+const url = `mongodb+srv://kiryong159:${PW}@mollumotion.iif7uxc.mongodb.net/?retryWrites=true&w=majority`;
 let connectDB;
 
 if (process.env.NODE_ENV === "development") {

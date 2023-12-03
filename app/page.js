@@ -49,6 +49,26 @@ export default function Home() {
         name="네루"
         nameEn="Neru"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/8mnsRnL/Izumi-Thumb.webp"
+        name="이즈미"
+        nameEn="Izumi"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/ww1RkqH/Shiroko-Thumb.webp"
+        name="시로코"
+        nameEn="Shiroko"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/Xj7y17P/Shun-Thumb.webp"
+        name="슌"
+        nameEn="Shun"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/bHJrSvv/Sumire-Thumb.webp"
+        name="스미레"
+        nameEn="Sumire"
+      />
     </div>
   );
 }

@@ -60,37 +60,37 @@ export default function Home() {
         nameEn="Shiroko"
       />
       <Card
-        thumbSrc="https://i.ibb.co/Xj7y17P/Shun-Thumb.webp"
+        thumbSrc="https://i.ibb.co/7WVP2Yr/Shun-Thumb.webp"
         name="슌"
         nameEn="Shun"
       />
       <Card
-        thumbSrc="https://i.ibb.co/bHJrSvv/Sumire-Thumb.webp"
+        thumbSrc="https://i.ibb.co/9YtPs8Z/Sumire-Thumb.webp"
         name="스미레"
         nameEn="Sumire"
       />
       <Card
-        thumbSrc="https://i.ibb.co/MMS55jD/Tsurugi-Thumb.webp"
+        thumbSrc="https://i.ibb.co/B6jdFbd/Tsurugi-Thumb.webp"
         name="츠루기"
         nameEn="Tsurugi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/zxDyTCc/Akane-Thumb.webp"
+        thumbSrc="https://i.ibb.co/wcLj9JK/Akane-Thumb.webp"
         name="아카네"
         nameEn="Akane"
       />
       <Card
-        thumbSrc="https://i.ibb.co/FbYRcc1/Chise-Thumb.webp"
+        thumbSrc="https://i.ibb.co/j43b6QQ/Chise-Thumb.webp"
         name="치세"
         nameEn="Chise"
       />
       <Card
-        thumbSrc="https://i.ibb.co/YbQ3rNR/Akari-Thumb.webp"
+        thumbSrc="https://i.ibb.co/Lnc7fcL/Akari-Thumb.webp"
         name="아카리"
         nameEn="Akari"
       />
       <Card
-        thumbSrc="https://i.ibb.co/YTFXMc7/Hasumi-Thumb.webp"
+        thumbSrc="https://i.ibb.co/p0x90yw/Hasumi-Thumb.webp"
         name="하스미"
         nameEn="Hasumi"
       />

@@ -94,6 +94,16 @@ export default function Home() {
         name="하스미"
         nameEn="Hasumi"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/mv7BRDd/Nonomi-Thumb.webp"
+        name="노노미"
+        nameEn="Nonomi"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/ckfYxjF/Kayoko-Thumb.webp"
+        name="카요코"
+        nameEn="Kayoko"
+      />
     </div>
   );
 }

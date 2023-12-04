@@ -15,47 +15,47 @@ export default function Home() {
         nameEn="Aru_New"
       />
       <Card
-        thumbSrc="https://i.ibb.co/qsjggcQ/Eimi-Thumb.webp"
+        thumbSrc="https://i.ibb.co/tH43zwQ/Eimi-Thumb.webp"
         name="에이미"
         nameEn="Eimi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/w6LhJhB/Haruna-Thumb.webp"
+        thumbSrc="https://i.ibb.co/FDc15p0/Haruna-Thumb.webp"
         name="하루나"
         nameEn="Haruna"
       />
       <Card
-        thumbSrc="https://i.ibb.co/h1SGQj1/Hifumi-Thumb.webp"
+        thumbSrc="https://i.ibb.co/9NkmKVR/Hifumi-Thumb.webp"
         name="히후미"
         nameEn="Hifumi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/q7XNRXC/Hoshino-Thumb.webp"
+        thumbSrc="https://i.ibb.co/fdCCbHn/Hoshino-Thumb.webp"
         name="호시노"
         nameEn="Hoshino"
       />
       <Card
-        thumbSrc="https://i.ibb.co/DYzmG7m/Iori-Thumb.webp"
+        thumbSrc="https://i.ibb.co/Q9BNGDF/Iori-Thumb.webp"
         name="이오리"
         nameEn="Iori"
       />
       <Card
-        thumbSrc="https://i.ibb.co/hysVqTs/Maki-Thumb.webp"
+        thumbSrc="https://i.ibb.co/ZXXKntT/Maki-Thumb.webp"
         name="마키"
         nameEn="Maki"
       />
       <Card
-        thumbSrc="https://i.ibb.co/dj7c8h0/Neru-Thumb.webp"
+        thumbSrc="https://i.ibb.co/wzFJ1Tp/Neru-Thumb.webp"
         name="네루"
         nameEn="Neru"
       />
       <Card
-        thumbSrc="https://i.ibb.co/8mnsRnL/Izumi-Thumb.webp"
+        thumbSrc="https://i.ibb.co/KhvGqsn/Izumi-Thumb.webp"
         name="이즈미"
         nameEn="Izumi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/ww1RkqH/Shiroko-Thumb.webp"
+        thumbSrc="https://i.ibb.co/4PCyKtL/Shiroko-Thumb.webp"
         name="시로코"
         nameEn="Shiroko"
       />

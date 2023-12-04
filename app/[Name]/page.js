@@ -76,6 +76,17 @@ export default async function CharaMotion(prop) {
         </>
       ) : null}
 
+      {result.Reload2 ? (
+        <>
+          <h1 className="text-center text-[25px] font-bold">재장전2</h1>
+          <img
+            className="rounded-md shadow-md"
+            src={`${result.Reload2}`}
+            alt="Reload"
+          />
+        </>
+      ) : null}
+
       {result.Ex ? (
         <>
           <h1 className="text-center text-[25px] font-bold">EX</h1>

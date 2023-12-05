@@ -104,6 +104,46 @@ export default function Home() {
         name="카요코"
         nameEn="Kayoko"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/pnpPfrT/Mutsuki-Thumb.webp"
+        name="무츠키"
+        nameEn="Mutsuki"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/qFCtdw0/Junko-Thumb.webp"
+        name="준코"
+        nameEn="Junko"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/72SychL/Serika-Thumb.webp"
+        name="세리카"
+        nameEn="Serika"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/KjjRgmB/Tsubaki-Thumb.webp"
+        name="츠바키"
+        nameEn="Tsubaki"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/6XfSgwt/Yuuka-Thumb.webp"
+        name="유우카"
+        nameEn="Yuuka"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/hyHK5qW/Haruka-Thumb.webp"
+        name="하루카"
+        nameEn="Haruka"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/r0phrH8/Asuna-Thumb.webp"
+        name="아스나"
+        nameEn="Asuna"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/s1wnWdp/Kotori-Thumb.webp"
+        name="코토리"
+        nameEn="Kotori"
+      />
     </div>
   );
 }

@@ -144,6 +144,26 @@ export default function Home() {
         name="코토리"
         nameEn="Kotori"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/8D4XxPt/Suzumi-Thumb.webp"
+        name="스즈미"
+        nameEn="Suzumi"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/BB7XTQj/Pina-Thumb.webp"
+        name="피나"
+        nameEn="Pina"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/GvwV9Fq/Hibiki-Thumb.webp"
+        name="히비키"
+        nameEn="Hibiki"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/Z1FXxbW/Karin-Thumb.webp"
+        name="카린"
+        nameEn="Karin"
+      />
     </div>
   );
 }

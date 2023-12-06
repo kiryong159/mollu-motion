@@ -264,6 +264,21 @@ export default function Home() {
         name="노도카"
         nameEn="Nodoka"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/z21m0Z2/Azusa-Thumb.webp"
+        name="아즈사"
+        nameEn="Azusa"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/3Ywq0fc/Hanako-Thumb.webp"
+        name="하나코"
+        nameEn="Hanako"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/KsCZdRF/Azusa-Swim-Thumb.webp"
+        name="아즈사(수영복)"
+        nameEn="Azusa-Swim"
+      />
     </div>
   );
 }

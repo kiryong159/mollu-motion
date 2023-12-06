@@ -166,6 +166,17 @@ export default async function CharaMotion(prop) {
           />
         </>
       ) : null}
+
+      {result.Cafe3 ? (
+        <>
+          <h1 className="text-center text-[25px] font-bold">가구2</h1>
+          <img
+            className="rounded-md shadow-md"
+            src={`${result.Cafe3}`}
+            alt="Cafe3"
+          />
+        </>
+      ) : null}
     </div>
   );
 }

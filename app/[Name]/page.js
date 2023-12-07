@@ -116,9 +116,20 @@ export default async function CharaMotion(prop) {
         </>
       ) : null}
 
+      {result.ExNs ? (
+        <>
+          <h1 className="text-center text-[25px] font-bold">Ex Ns</h1>
+          <img
+            className="rounded-md shadow-md"
+            src={`${result.ExNs}`}
+            alt="ExNs"
+          />
+        </>
+      ) : null}
+
       {result.Ns ? (
         <>
-          <h1 className="text-center text-[25px] font-bold">1스</h1>
+          <h1 className="text-center text-[25px] font-bold">Ns</h1>
           <img className="rounded-md shadow-md" src={`${result.Ns}`} alt="Ns" />
         </>
       ) : null}

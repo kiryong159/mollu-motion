@@ -279,6 +279,71 @@ export default function Home() {
         name="아즈사(수영복)"
         nameEn="Azusa-Swim"
       />
+      <Card
+        thumbSrc="https://i.ibb.co/0mYqzC6/Mashiro-Swim-Thumb.webp"
+        name="마시로(수영복)"
+        nameEn="Mashiro-Swim"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/1bRBV34/Tsurugi-Swim-Thumb.webp"
+        name="츠루기(수영복)"
+        nameEn="Tsurugi-Swim"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/R9q8bLT/Hifumi-Swim-Thumb.webp"
+        name="히후미(수영복)"
+        nameEn="Hifumi-Swim"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/sgcBqWw/Izumi-Swim-Thumb.webp"
+        name="이즈미(수영복)"
+        nameEn="Izumi-Swim"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/6vsCh2F/Shun-Small-Thumb.webp"
+        name="슌(어린이)"
+        nameEn="Shun-Small"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/3vFq06m/Kirino-Thumb.webp"
+        name="키리노"
+        nameEn="Kirino"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/FKnyYnJ/Neru-Bunny-Thumb.webp"
+        name="네루(바니걸)"
+        nameEn="Neru-Bunny"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/vJMXXD4/Karin-Bunny-Thumb.webp"
+        name="카린(바니걸)"
+        nameEn="Karin-Bunny"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/WD7YnfT/Asuna-Bunny-Thumb.webp"
+        name="아스나(바니걸)"
+        nameEn="Asuna-Bunny"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/s17sjMW/Natsu-Thumb.webp"
+        name="나츠"
+        nameEn="Natsu"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/b5khgQm/Mari-Thumb.webp"
+        name="마리"
+        nameEn="Mari"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/XbN0Qmx/Ako-Thumb.webp"
+        name="아코"
+        nameEn="Ako"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/ZVfFJKF/Cherino-Hot-Thumb.webp"
+        name="체리노(온천)"
+        nameEn="Cherino-Hot"
+      />
     </div>
   );
 }

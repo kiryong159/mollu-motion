@@ -11,7 +11,7 @@ export default function Home() {
       />
       <Card
         thumbSrc="https://i.ibb.co/QjkX1pr/image.webp"
-        name="아루(정월)"
+        name="아루(새해)"
         nameEn="Aru_New"
       />
       <Card
@@ -295,6 +295,11 @@ export default function Home() {
         nameEn="Hifumi-Swim"
       />
       <Card
+        thumbSrc="https://i.ibb.co/Sn30hj2/Hina-Swim-Thumb.webp"
+        name="히나(수영복)"
+        nameEn="Hina-Swim"
+      />
+      <Card
         thumbSrc="https://i.ibb.co/sgcBqWw/Izumi-Swim-Thumb.webp"
         name="이즈미(수영복)"
         nameEn="Izumi-Swim"
@@ -343,6 +348,47 @@ export default function Home() {
         thumbSrc="https://i.ibb.co/ZVfFJKF/Cherino-Hot-Thumb.webp"
         name="체리노(온천)"
         nameEn="Cherino-Hot"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/WWgz8vy/Chinatsu-Hot-Thumb.webp"
+        name="치나츠(온천)"
+        nameEn="Chinatsu-Hot"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/3rvss4R/Tomoe-Thumb.webp"
+        name="토모에"
+        nameEn="Tomoe"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/23w3sTH/Mutsuki-New-Thumb.webp"
+        name="무츠키(새해)"
+        nameEn="Mutsuki-New"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/thsG35P/Serika-New-Thumb.webp"
+        name="세리카(새해)"
+        nameEn="Serika-New"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/yfcd0FZ/Wakamo-Thumb.webp"
+        name="와카모"
+        nameEn="Wakamo"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/34QjJyj/Fubuki-Thumb.webp"
+        name="후부키"
+        nameEn="Fubuki"
+      />
+      <Card
+        thumbSrc="https://i.ibb.co/ggkcN0b/Sena-Thumb.webp"
+        name="세나"
+        nameEn="Sena"
+      />
+
+      <Card
+        thumbSrc="https://i.ibb.co/2vVddTd/Chihiro-Thumb.webp"
+        name="치히로"
+        nameEn="Chihiro"
       />
     </div>
   );

@@ -9,14 +9,24 @@ export default function Card({ thumbSrc, name, nameEn }) {
   return (
     <Link
       href={`/${destinationURL}`}
-      className="bg-gray-500 rounded-md shadow-md px-3 py-2 flex items-center space-x-5 hover:cursor-pointer"
+      className="bg-gray-500 text-white  rounded-md shadow-md px-3 py-2 flex items-center space-x-5 hover:cursor-pointer hover:scale-105 transition-all hover:bg-purple-200 hover:text-black"
     >
-      <img className="rounded-sm w-[55px]" src={src} alt="thumbImg" />
-      <span className="text-[20px]">{name}</span>
+      <img
+        className="rounded-sm w-[55px]"
+        src={src}
+        width="55"
+        height="45"
+        loading="lazy"
+        alt="thumbImg"
+      />
+      {name.length > 9 ? (
+        <span className="font-bold text-[19px]">{name}</span>
+      ) : (
+        <span className="font-bold text-[20px]">{name}</span>
+      )}
     </Link>
   );
 }
 
 /* 카드 hover시 색상변경 */
-/* router 이름 motion /[chara] ->  Aru ? Serica */
-/* 글 내용을 db에서 불러와야하는가?  */
+/* Image를  써야하나? */

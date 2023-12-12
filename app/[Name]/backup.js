@@ -1,17 +1,29 @@
-import { find } from "./find";
+import { connectDB } from "@/util/database";
+import { localDB } from "@/util/localDb";
 
 export default async function CharaMotion(prop) {
   const charaName = prop.params.Name;
-  console.log("모션페이지 Prop 캐릭터 명 ", charaName);
-  const result = find(charaName);
+
+  const db = (await connectDB).db("mollu");
+  let result = await db.collection("chara").findOne({ Name: charaName });
+  /*   const foundAru = localDB.find((item) => item.Name === "Aru"); */
 
   return (
-    <div className="charaDiv bg-gray-700 text-white w-[315px] 3sm:w-[370px] 2sm:w-[420px] md:w-[500px] lg:w-[600px] xl:w-[700px] space-y-5">
-      {result.Kname.length > 9 ? (
-        <h1 className=" text-[30px]  my-5">{result.Kname}</h1>
-      ) : (
-        <h1 className=" text-[40px]  my-5">{result.Kname}</h1>
-      )}
+    <div className="charaDiv w-[315px] 3sm:w-[370px] 2sm:w-[420px] md:w-[500px] lg:w-[600px] xl:w-[700px] space-y-5">
+      <h1 className=" text-[40px]  my-5">{result.Kname}</h1>
+
+      {/*       {foundAru.Start ? (
+        <>
+          <h1 className="">전투 시작</h1>
+          <img
+            loading="lazy"
+            className="rounded-md shadow-md"
+            src={`${foundAru.Start}`}
+            alt="Start"
+          />
+        </>
+      ) : null} */}
+
       {result.Start ? (
         <>
           <h1 className="">전투 시작</h1>

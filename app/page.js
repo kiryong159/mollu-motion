@@ -3,393 +3,652 @@ import Card from "./Card";
 /* 홈 화면 */
 export default function Home() {
   return (
-    <div className="w-[420px] bg-gray-300 mx-auto mt-[100px] p-3 space-y-3 ">
+    <div className="w-[315px] bg-gray-700 mx-auto mt-[70px] p-5 gap-5 grid grid-cols-1 sm:grid-cols-2 sm:w-[635px] md:w-[763px] xl:w-[1024px] xl:grid-cols-3 2xl:grid-cols-4  2xl:w-[1440px] 3xl:w-[1750px] 3xl:grid-cols-5 ">
       <Card
-        thumbSrc="https://i.ibb.co/Lnwrp7j/Aru-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1IjNaa3-hXjIh7UXj-mzQnt2ccNvqUhMx"
         name="아루"
         nameEn="Aru"
       />
       <Card
-        thumbSrc="https://i.ibb.co/QjkX1pr/image.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=10Gz52Tz_-5uOQiKiz2rXfFCk52kW1Ju0"
         name="아루(새해)"
         nameEn="Aru_New"
       />
       <Card
-        thumbSrc="https://i.ibb.co/tH43zwQ/Eimi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1hwhYuQ2qpmStHTmy-DAdhZAf0RZIh4SI"
         name="에이미"
         nameEn="Eimi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/FDc15p0/Haruna-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1roxB3taAglAoScS3znPUOgA8t82dms5i"
         name="하루나"
         nameEn="Haruna"
       />
       <Card
-        thumbSrc="https://i.ibb.co/9NkmKVR/Hifumi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1OlXVK_md-A6wSokTok0LXOBTbNF92ywk"
         name="히후미"
         nameEn="Hifumi"
       />
+      {/*       <Card thumbSrc="" name="히나" nameEn="Hina" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/fdCCbHn/Hoshino-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1O3sIo_bHQikOsOTNftW2CPjQS0gsoCMB"
         name="호시노"
         nameEn="Hoshino"
       />
       <Card
-        thumbSrc="https://i.ibb.co/Q9BNGDF/Iori-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1ldshsy2hbXiN1hApLq7JI6rpT-mghjHS"
         name="이오리"
         nameEn="Iori"
       />
       <Card
-        thumbSrc="https://i.ibb.co/ZXXKntT/Maki-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1IK8D2IpFM1JdF32WZv28QMCbkuMcUyni"
         name="마키"
         nameEn="Maki"
       />
       <Card
-        thumbSrc="https://i.ibb.co/wzFJ1Tp/Neru-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=14jsErDCKmGLiM6NZI6ufIgSGHzmOQ9nz"
         name="네루"
         nameEn="Neru"
       />
       <Card
-        thumbSrc="https://i.ibb.co/KhvGqsn/Izumi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=18WgywqrbDW_fZd3ovoIwxmM-D4_HJ6TC"
         name="이즈미"
         nameEn="Izumi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/4PCyKtL/Shiroko-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1aiG1QgyI1l8HtuYuo_fmfVCuf6m7wCPq"
         name="시로코"
         nameEn="Shiroko"
       />
       <Card
-        thumbSrc="https://i.ibb.co/7WVP2Yr/Shun-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1IJ5iwfbb_qDuJGxyLRiJBjbPe4cD54eT"
         name="슌"
         nameEn="Shun"
       />
       <Card
-        thumbSrc="https://i.ibb.co/9YtPs8Z/Sumire-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1_Y0a5Cpvn2NwOrwM2wx3lLRz-13cb8rO"
         name="스미레"
         nameEn="Sumire"
       />
       <Card
-        thumbSrc="https://i.ibb.co/B6jdFbd/Tsurugi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1wZCCCLv7NQeucM6nGVN4Vtm1dv4dNF-N"
         name="츠루기"
         nameEn="Tsurugi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/wcLj9JK/Akane-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1f3pYFEoG0-UqAFZwkRQ58sg82pt7470I"
         name="아카네"
         nameEn="Akane"
       />
       <Card
-        thumbSrc="https://i.ibb.co/j43b6QQ/Chise-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1mjCfbB9-tsif_OLwDj-VM2bXrs873NYv"
         name="치세"
         nameEn="Chise"
       />
       <Card
-        thumbSrc="https://i.ibb.co/Lnc7fcL/Akari-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1WJ0e_F0gum3okrMqPsjE97AQ27wymo3L"
         name="아카리"
         nameEn="Akari"
       />
       <Card
-        thumbSrc="https://i.ibb.co/p0x90yw/Hasumi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=16-wqr1X9IKm9QPDwNjYGArkAk9ynpOcE"
         name="하스미"
         nameEn="Hasumi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/mv7BRDd/Nonomi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1f93e3VIJOVyrz9IURXxiMytnoT_yXzpk"
         name="노노미"
         nameEn="Nonomi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/ckfYxjF/Kayoko-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1jCV9sq4Vb1aBhYuja3SBAVgLKooenngQ"
         name="카요코"
         nameEn="Kayoko"
       />
       <Card
-        thumbSrc="https://i.ibb.co/pnpPfrT/Mutsuki-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1N6GcnpS_yixMx3q2mpXPzT0SA7rpx7Je"
         name="무츠키"
         nameEn="Mutsuki"
       />
       <Card
-        thumbSrc="https://i.ibb.co/qFCtdw0/Junko-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Zz-3Spe7-ccqtBamU7SwWiArtv3C9Knf"
         name="준코"
         nameEn="Junko"
       />
       <Card
-        thumbSrc="https://i.ibb.co/72SychL/Serika-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1srpz3Lquz0qqwH_Hww0gIajdCJ63wqYW"
         name="세리카"
         nameEn="Serika"
       />
       <Card
-        thumbSrc="https://i.ibb.co/KjjRgmB/Tsubaki-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1NyFFm7pgsi14PgF2-WdLV2sfBw4ioxyV"
         name="츠바키"
         nameEn="Tsubaki"
       />
       <Card
-        thumbSrc="https://i.ibb.co/6XfSgwt/Yuuka-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1iwH09jje8VfGKfcebRCzCPvt1fHcfFtS"
         name="유우카"
         nameEn="Yuuka"
       />
       <Card
-        thumbSrc="https://i.ibb.co/hyHK5qW/Haruka-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1o2fIKmF4-01Qzax7ApIFb2yFgUS_4V4h"
         name="하루카"
         nameEn="Haruka"
       />
       <Card
-        thumbSrc="https://i.ibb.co/r0phrH8/Asuna-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=12IoHUkIZomWJi5jyP5B6BLzn6WUkstOL"
         name="아스나"
         nameEn="Asuna"
       />
       <Card
-        thumbSrc="https://i.ibb.co/s1wnWdp/Kotori-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1uK1-Jhu_-JmZ-Cw-NTaPvdgh0P1kV_ZL"
         name="코토리"
         nameEn="Kotori"
       />
       <Card
-        thumbSrc="https://i.ibb.co/8D4XxPt/Suzumi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1csAXw5JWATqvFwEh_PQ5EpsRNR5y7qzL"
         name="스즈미"
         nameEn="Suzumi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/BB7XTQj/Pina-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1tD7NJ-xK-37ho2d-a9WqZYF7CGonskUk"
         name="피나"
         nameEn="Pina"
       />
       <Card
-        thumbSrc="https://i.ibb.co/GvwV9Fq/Hibiki-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1pPHb-cmm0zQ3rVOuc8LH-WA_dry1eeF8"
         name="히비키"
         nameEn="Hibiki"
       />
       <Card
-        thumbSrc="https://i.ibb.co/Z1FXxbW/Karin-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1htRGmDncPX2MUeC5LPGOaAK6nuPKxBK8"
         name="카린"
         nameEn="Karin"
       />
       <Card
-        thumbSrc="https://i.ibb.co/sqTp0Sk/Saya-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Q_mHpqcSwWwFaX0l6WdnfyWiB9K4p_yG"
         name="사야"
         nameEn="Saya"
       />
       <Card
-        thumbSrc="https://i.ibb.co/6y9Kzws/Airi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1EThOYMpnHmXea3XBVHbrt-MGiX7POyPy"
         name="아이리"
         nameEn="Airi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/CPphRGX/Fuuka-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1rglnGbnlBp-aw1ovtuSZxv-NoV_AFH8B"
         name="후우카"
         nameEn="Fuuka"
       />
       <Card
-        thumbSrc="https://i.ibb.co/ypv5w1b/Hanae-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1TG5XTBGfVsG_hpsfwzTwHpPduoImldJ8"
         name="하나에"
         nameEn="Hanae"
       />
       <Card
-        thumbSrc="https://i.ibb.co/C0pDv2D/Hare-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Dbe91PQi0Mzgq-_rcFdKdXslQBg__dLH"
         name="하레"
         nameEn="Hare"
       />
       <Card
-        thumbSrc="https://i.ibb.co/yRZTCYc/Utaha-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=19NVyJqpsKdE-732nrgQB2QAw7UmlvEah"
         name="우타하"
         nameEn="Utaha"
       />
       <Card
-        thumbSrc="https://i.ibb.co/rtLvyxW/Ayane-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1DnldjkB9K8In6s_31UI0XnqlXUS5Vc6M"
         name="아야네"
         nameEn="Ayane"
       />
       <Card
-        thumbSrc="https://i.ibb.co/WzJmFpC/Chinatsu-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1MkRi46hgDafgNQohFUSHH_eOWdN3KId0"
         name="치나츠"
         nameEn="Chinatsu"
       />
       <Card
-        thumbSrc="https://i.ibb.co/By6D6xJ/Kotama-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1DZs3tNqi1rIt_yyeGJcXV2myCP2kqEm-"
         name="코타마"
         nameEn="Kotama"
       />
       <Card
-        thumbSrc="https://i.ibb.co/Nj7dpNV/Juri-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1ogtSeyMhW00S4WO1ImuGPV4hVSkBwUqO"
         name="주리"
         nameEn="Juri"
       />
       <Card
-        thumbSrc="https://i.ibb.co/VCsZxzm/Serina-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=19ZqKn-OPIaS0OYZYBEmzdAp88UtnQHeY"
         name="세리나"
         nameEn="Serina"
       />
       <Card
-        thumbSrc="https://i.ibb.co/y6zV5M6/Shimiko-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1BWVFfDEYtjyNqruYxvg8jwPU7GLcGN7K"
         name="시미코"
         nameEn="Shimiko"
       />
       <Card
-        thumbSrc="https://i.ibb.co/bF2Tm4p/Yoshimi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1N5Zyv-h7X4Ztf8n7Iz3yCw3er0XGIQ2F"
         name="요시미"
         nameEn="Yoshimi"
       />
+      {/*       <Card thumbSrc="" name="마시로" nameEn="Mashiro" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/X5YGKGR/Izuna-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1qn7IHcCA3q6AcS5dVngchTrqJGg5O2kD"
         name="이즈나"
         nameEn="Izuna"
       />
       <Card
-        thumbSrc="https://i.ibb.co/wzRdS0Y/Shizuko-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=12rLZsvz_WpbsXnff5SOKRfKHAGhpsJM7"
         name="시즈코"
         nameEn="Shizuko"
       />
       <Card
-        thumbSrc="https://i.ibb.co/vDyGjVP/Aris-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1MeDhlmKL3yA5Hj2K3rJQplrpJH5GHS23"
         name="아리스"
         nameEn="Aris"
       />
       <Card
-        thumbSrc="https://i.ibb.co/sjV66NF/Midori-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1wAsEtpSB2kO0XE10uvNWLlBVKeJstK7b"
         name="미도리"
         nameEn="Midori"
       />
       <Card
-        thumbSrc="https://i.ibb.co/MPydXmj/Momoi-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1S1rfH-Uav9OpZP4LihXGwSwAkKv5ZE9k"
         name="모모이"
         nameEn="Momoi"
       />
       <Card
-        thumbSrc="https://i.ibb.co/kBtGQZw/Cherino-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1NlR9yQ_DNbDghp79ceOZHSYXtPCIIzi9"
         name="체리노"
         nameEn="Cherino"
       />
       <Card
-        thumbSrc="https://i.ibb.co/0r6WDLW/Nodoka-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1tCX6inJXi5aTEiX9N14uTVSlrWmcuW8e"
         name="노도카"
         nameEn="Nodoka"
       />
+      {/*       <Card thumbSrc="" name="유즈" nameEn="Yuzu" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/z21m0Z2/Azusa-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1grHqzmnDLXTE3jIloFMsxhFyad6OpWUy"
         name="아즈사"
         nameEn="Azusa"
       />
       <Card
-        thumbSrc="https://i.ibb.co/3Ywq0fc/Hanako-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Y1dF1q6Qp2BPXqVR-_BuRraUZVmSRBrZ"
         name="하나코"
         nameEn="Hanako"
       />
+      {/*       <Card thumbSrc="" name="코하루" nameEn="Koharu" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/KsCZdRF/Azusa-Swim-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=15OvgwhkDkgCi--yxmwpJpJsA6kmzcC8W"
         name="아즈사(수영복)"
         nameEn="Azusa-Swim"
       />
       <Card
-        thumbSrc="https://i.ibb.co/0mYqzC6/Mashiro-Swim-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1J3Y8wVq3m5UVqF6oC4ofltH9eLTPKn-_"
         name="마시로(수영복)"
         nameEn="Mashiro-Swim"
       />
       <Card
-        thumbSrc="https://i.ibb.co/1bRBV34/Tsurugi-Swim-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1QFWGqxrVBbOKbu5Dv2ykkVnLoIgIYpuS"
         name="츠루기(수영복)"
         nameEn="Tsurugi-Swim"
       />
       <Card
-        thumbSrc="https://i.ibb.co/R9q8bLT/Hifumi-Swim-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1zA6KGIvz6hglGqzgdWfe-rPNWs5PhJ4-"
         name="히후미(수영복)"
         nameEn="Hifumi-Swim"
       />
       <Card
-        thumbSrc="https://i.ibb.co/Sn30hj2/Hina-Swim-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1UXiX1WSt4glRSJ8E2ywyF34XxeOETRFg"
         name="히나(수영복)"
         nameEn="Hina-Swim"
       />
+      {/*       <Card thumbSrc="" name="이오리(수영복)" nameEn="Iori-Swim" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/sgcBqWw/Izumi-Swim-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1XZXSKACTJ9qA6NSeqH4oI7esqOz9AlA7"
         name="이즈미(수영복)"
         nameEn="Izumi-Swim"
       />
+      {/*       <Card thumbSrc="" name="시로코(라이딩)" nameEn="Shiroko-Cycling" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/6vsCh2F/Shun-Small-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1RyLH2WpyGVjmmuhjXNzyd20AOH224C5w"
         name="슌(어린이)"
         nameEn="Shun-Small"
       />
       <Card
-        thumbSrc="https://i.ibb.co/3vFq06m/Kirino-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1-P7yBhkh2I1kyfpN7tZVfByZ16719_Ca"
         name="키리노"
         nameEn="Kirino"
       />
+      {/*       <Card thumbSrc="" name="사야(사복)" nameEn="Saya-Casual" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/FKnyYnJ/Neru-Bunny-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Wwxe9CqARPeOfxmLq3kHK4eLelR88X3O"
         name="네루(바니걸)"
         nameEn="Neru-Bunny"
       />
       <Card
-        thumbSrc="https://i.ibb.co/vJMXXD4/Karin-Bunny-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=14LzEdNb5C0Wfk7gz3UwFZq4GRc9VaY8F"
         name="카린(바니걸)"
         nameEn="Karin-Bunny"
       />
       <Card
-        thumbSrc="https://i.ibb.co/WD7YnfT/Asuna-Bunny-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1O2E6JQmOnMtPc8VwsUknR9yAluOFTtz7"
         name="아스나(바니걸)"
         nameEn="Asuna-Bunny"
       />
       <Card
-        thumbSrc="https://i.ibb.co/s17sjMW/Natsu-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=176IRuHqKZszVn48zQg4LkCUBePoEl6nY"
         name="나츠"
         nameEn="Natsu"
       />
       <Card
-        thumbSrc="https://i.ibb.co/b5khgQm/Mari-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1j0LyVn8dzI6fPP8cDF803QSoWIfrSvnL"
         name="마리"
         nameEn="Mari"
       />
+      {/*       <Card thumbSrc="" name="하츠네미쿠" nameEn="Hatsune-Miku" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/XbN0Qmx/Ako-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1C66jJcfEAWlnmaz_ytpuyKfkqCH8FIku"
         name="아코"
         nameEn="Ako"
       />
       <Card
-        thumbSrc="https://i.ibb.co/ZVfFJKF/Cherino-Hot-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1tv0TrVfCk38gIkoQ05CxRxEKRMXDhzWm"
         name="체리노(온천)"
         nameEn="Cherino-Hot"
       />
       <Card
-        thumbSrc="https://i.ibb.co/WWgz8vy/Chinatsu-Hot-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Pvof8q3Cr0R8w-YYhhzWVZZnnZ5u8c5N"
         name="치나츠(온천)"
         nameEn="Chinatsu-Hot"
       />
       <Card
-        thumbSrc="https://i.ibb.co/3rvss4R/Tomoe-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=14EUd5zAyyzfojDeSBOm5vTa6cpwyammf"
         name="토모에"
         nameEn="Tomoe"
       />
+      {/*       <Card thumbSrc="" name="노도카(온천)" nameEn="Nodoka-Hot" /> */}
       <Card
-        thumbSrc="https://i.ibb.co/23w3sTH/Mutsuki-New-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1GO9KLl5t617h8EJsd-HoC0KbgHrNZVQQ"
         name="무츠키(새해)"
         nameEn="Mutsuki-New"
       />
       <Card
-        thumbSrc="https://i.ibb.co/thsG35P/Serika-New-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1UnhkVIzgbpfxgzMA9hpCYpeBGHX3jSvZ"
         name="세리카(새해)"
         nameEn="Serika-New"
       />
       <Card
-        thumbSrc="https://i.ibb.co/yfcd0FZ/Wakamo-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1v3LyunBIowquPPmujNhOFU7Ps9Mewi2m"
         name="와카모"
         nameEn="Wakamo"
       />
       <Card
-        thumbSrc="https://i.ibb.co/34QjJyj/Fubuki-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Y9d0RxSxtJTrGpeIJ2vlD08m56Y0dhwn"
         name="후부키"
         nameEn="Fubuki"
       />
       <Card
-        thumbSrc="https://i.ibb.co/ggkcN0b/Sena-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1pWO8MyVm2Y1iEjB0RH953XThKEsFdMCe"
         name="세나"
         nameEn="Sena"
       />
-
       <Card
-        thumbSrc="https://i.ibb.co/2vVddTd/Chihiro-Thumb.webp"
+        thumbSrc="https://drive.google.com/uc?export=view&id=1zxGg6ZGpMTdhpjcio1E26WauIoIQ1lb7"
         name="치히로"
         nameEn="Chihiro"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Muh620gKilXX_fT6Jnudq7kc4S6yqlV4"
+        name="미모리"
+        nameEn="Mimori"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=15bYkpCMqS62fBNVrZqeWNHdvmNIaQ-Pk"
+        name="우이"
+        nameEn="Ui"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1H5vUSf5eaabqusfZIJLqPmFf81aFg_cm"
+        name="히나타"
+        nameEn="Hinata"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1G20DvDJVv8WBxsk-_MF0cVnKiM1H27_l"
+        name="마리나"
+        nameEn="Marina"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1QmwwGNYNRwEIecMtwhqbyvKPMBTnfcOb"
+        name="미야코"
+        nameEn="Miyako"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1wIgOI3UZJ05DASHWedJuDvyvRB21eCM6"
+        name="사키"
+        nameEn="Saki"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1H6i_vMkbuYyDLwwWOfPR34Twi8ulX4fg"
+        name="미유"
+        nameEn="Miyu"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=10lfCszfLA6KHSIOMiX_zMmUZReVoEsuC"
+        name="카에데"
+        nameEn="Kaede"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1s8vOdXunMNcQvm_k2Fux31M40Mbbcv5x"
+        name="이로하"
+        nameEn="Iroha"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1FiK88khPFyVE1J6Sd_LGrylA5KcQtlgg"
+        name="미치루"
+        nameEn="Michiru"
+      />
+
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1zQwQWWzyX-rVppVLpiw5oDqlLILOH1on"
+        name="츠쿠요"
+        nameEn="Tsukuyo"
+      />
+      {/*       <Card thumbSrc="" name="미사키" nameEn="Misaki" /> */}
+      {/*       <Card thumbSrc="" name="히요리" nameEn="Hiyori" /> */}
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=11wiS45G4f4R6yuiDdla3K9yYBF1CxFHh"
+        name="아츠코"
+        nameEn="Atsuko"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1tv5eq5h-UCGwqpje0SIzdTta5qbSm54e"
+        name="와카모(수영복)"
+        nameEn="Wakamo-Swim"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1CDnYl3yMrEgn4ma1kQKRJIFdgnTzUYP-"
+        name="노노미(수영복)"
+        nameEn="Nonomi-Swim"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1k5Br7Va9grb1tBTNGpqf5Z88eJnDaP66"
+        name="아야네(수영복)"
+        nameEn="Ayane-Swim"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1BDr1aS0V1vElsNvTAFKJHTLtVSTx8BM0"
+        name="호시노(수영복)"
+        nameEn="Hoshino-Swim"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1jUavbhgKLmEpNdoDE3B971uEFRvMa3lE"
+        name="시즈코(수영복)"
+        nameEn="Shizuko-Swim"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1eJCYV5yR_O9t1P2UJO01AmMl-CguL7sz"
+        name="이즈나(수영복)"
+        nameEn="Izuna-Swim"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1ZELNZVZdtuWHtdFMjJxRxLbyKJk-eWl6"
+        name="치세(수영복)"
+        nameEn="Chise-Swim"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1aHfv3dKpSoTUPR1ZrnFDiCi8LkZ5_K9B"
+        name="사오리"
+        nameEn="Saori"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1K7cWpkic_cOseoWkxdxZ2bh633rjt6dF"
+        name="모에"
+        nameEn="Moe"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1vuVFDXZI2H55sGOVtfurYFUnhOwZn5uG"
+        name="카즈사"
+        nameEn="Kazusa"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=17e1KyKubn-TMAdbagfJU9tUcDCKkp-b1"
+        name="코코나"
+        nameEn="Kokona"
+      />
+      {/*       <Card thumbSrc="" name="우타하(응원단)" nameEn="Utaha-Cheer" /> */}
+      {/*       <Card thumbSrc="" name="노아" nameEn="Noa" /> */}
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1a1ETXW3zLBxSxoX_s0chwul22HIBWDuE"
+        name="히비키(응원단)"
+        nameEn="Hibiki-Cheer"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Zjcm9S1q5nkwGTFrFRrslDoj0h1KhUcM"
+        name="아카네(바니걸)"
+        nameEn="Akane-Bunny"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1dOVBHRr-W260kj2bDkGxJBqg3aglSWEO"
+        name="유우카(체육복)"
+        nameEn="Yuuka-Track"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1NkOMyAGWeBHpJD8tktpOYm_N32e4Xzz2"
+        name="마리(체육복)"
+        nameEn="Mari-Track"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=19WTqEdchIfmZjH5-GRzvNizuTCF9Eccs"
+        name="하스미(체육복)"
+        nameEn="Hasumi-Track"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=14FeEkz2epJdpS-SMsDI_OVMn3YG1lQ7f"
+        name="히마리"
+        nameEn="Himari"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1eXo15ppL5-I7TJnkeUq0L7j295gNDf2L"
+        name="시구레"
+        nameEn="Shigure"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1EI6vTwxmx45CS6fMBa3cC-udGatBln1G"
+        name="세리나(크리스마스)"
+        nameEn="Serina-Christmas"
+      />
+      {/*       <Card thumbSrc="" name="하나에(크리스마스)" nameEn="Hanae-Christmas" /> */}
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1IDO_RLn_8CJ8YGxYsUwUGxUve2kVsKJj"
+        name="하루나(새해)"
+        nameEn="Haruna-New"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1v9s-WNIzDUWp-Lc0CCMQOI7pluNwNGAm"
+        name="후우카(새해)"
+        nameEn="Fuuka-New"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1fUwq7NeZEfPU8QoUKahpsiiYP49cXSV3"
+        name="준코(새해)"
+        nameEn="Junko-New"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1tsh623Fh-EIrCBQV6jG1aZZPA_BHG6su"
+        name="미네"
+        nameEn="Mine"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1YF3IUui9QaoA9JGjFUzNTWTUU64k7OFH"
+        name="미카"
+        nameEn="Mika"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Xa_fL-9ISToK7CzxrdfxHWND-QLGD8MK"
+        name="메구"
+        nameEn="Megu"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1gS4wYkmUVRxjYN2R28Lx4gkkw-yBZ4R5"
+        name="칸나"
+        nameEn="Kanna"
+      />
+      {/*       <Card thumbSrc="" name="사쿠라코" nameEn="Sakurako" /> */}
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1bVj3FTuCWDlz5hgQ92HWCQc20PojovRq"
+        name="토키"
+        nameEn="Toki"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Bnwhss9CEgS5X5jMbA-NzGUNoWuiLxPU"
+        name="나기사"
+        nameEn="Nagisa"
+      />
+      {/*       <Card thumbSrc="" name="코유키" nameEn="Koyuki" /> */}
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=12uZgR3G7VM6lYQkeZNgnwbsuyaJUABrC"
+        name="카요코(새해)"
+        nameEn="Kayoko-New"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1JB-T4BGhmY7xGSRR6j7_fufU7Z4f26Np"
+        name="하루카(새해)"
+        nameEn="Haruka-New"
+      />
+      {/*       <Card thumbSrc="" name="카호" nameEn="Kaho" /> */}
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1Y35TCWci_mmuRbMB3soDGn1Y_ykQlDJf"
+        name="아리스(메이드)"
+        nameEn="Aris-Maid"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1TKWpesIzf74-q3ICXeDD50lD-LlXRp0K"
+        name="토키(바니걸)"
+        nameEn="Toki-Bunny"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1TGKidKBIIkJPmcGTBfobsZTbfaoOPZOH"
+        name="유즈(메이드)"
+        nameEn="Yuzu-Maid"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1b0GkMGINhhAG8pro0faNfH_aspQG5mAD"
+        name="레이사"
+        nameEn="Reisa"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1NeCHio-tJDGOhIXq3ZbWxFZP27PRpkzt"
+        name="루미"
+        nameEn="Rumi"
+      />
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1DrdfnP9YqwEQNOOzPnO-9yjThva9mp4x"
+        name="미나"
+        nameEn="Mina"
       />
     </div>
   );
 }
+
+/* 카드 추가시 로컬 디비에도 추가하기 */

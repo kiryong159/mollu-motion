@@ -3,7 +3,6 @@ import { find } from "./find";
 
 export default async function CharaMotion(prop) {
   const charaName = prop.params.Name;
-  console.log("모션페이지 Prop 캐릭터 명 ", charaName);
   const result = find(charaName);
 
   return (

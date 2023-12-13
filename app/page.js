@@ -6,6 +6,11 @@ export default function Home() {
   return (
     <div className="w-[315px] bg-gray-700 mx-auto mt-[70px] p-5 gap-5 grid grid-cols-1 sm:grid-cols-2 sm:w-[635px] md:w-[763px] xl:w-[1024px] xl:grid-cols-3 2xl:grid-cols-4  2xl:w-[1440px] 3xl:w-[1750px] 3xl:grid-cols-5 ">
       <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1mBgox2qQOXEVmz81fRkGeJHhqrNTj6Cc"
+        name="알림말"
+        nameEn="Notice"
+      />
+      <Card
         thumbSrc="https://drive.google.com/uc?export=view&id=1Ux75KtGG22smCEpEKTcMsRytDUVvsxen"
         name="아루"
         nameEn="Aru"

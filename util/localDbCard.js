@@ -29,10 +29,7 @@ export const localDbCard = [
     name: "히후미",
     nameEn: "Hifumi",
   },
-  {
-    /*       { thumbSrc:"" ,name:"히나" ,nameEn:"Hina" } */
-  },
-  ,
+  /*       { thumbSrc:"" ,name:"히나" ,nameEn:"Hina" } */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1O3sIo_bHQikOsOTNftW2CPjQS0gsoCMB",
@@ -273,10 +270,7 @@ export const localDbCard = [
     name: "요시미",
     nameEn: "Yoshimi",
   },
-  {
-    /*       { thumbSrc:"" ,name:"마시로" ,nameEn:"Mashiro" }, */
-  },
-  ,
+  /*       { thumbSrc:"" ,name:"마시로" ,nameEn:"Mashiro" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1qn7IHcCA3q6AcS5dVngchTrqJGg5O2kD",
@@ -319,9 +313,7 @@ export const localDbCard = [
     name: "노도카",
     nameEn: "Nodoka",
   },
-  {
-    /*       { thumbSrc:"" ,name:"유즈" ,nameEn:"Yuzu" }, */
-  },
+  /*       { thumbSrc:"" ,name:"유즈" ,nameEn:"Yuzu" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1grHqzmnDLXTE3jIloFMsxhFyad6OpWUy",
@@ -334,9 +326,9 @@ export const localDbCard = [
     name: "하나코",
     nameEn: "Hanako",
   },
-  {
-    /*       { thumbSrc:"" ,name:"코하루" ,nameEn:"Koharu" }, */
-  },
+
+  /*       { thumbSrc:"" ,name:"코하루" ,nameEn:"Koharu" }, */
+
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=15OvgwhkDkgCi--yxmwpJpJsA6kmzcC8W",
@@ -367,18 +359,18 @@ export const localDbCard = [
     name: "히나(수영복)",
     nameEn: "Hina-Swim",
   },
-  {
-    /*       { thumbSrc:"" ,name:"이오리(수영복)" ,nameEn:"Iori-Swim" }, */
-  },
+
+  /*       { thumbSrc:"" ,name:"이오리(수영복)" ,nameEn:"Iori-Swim" }, */
+
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1XZXSKACTJ9qA6NSeqH4oI7esqOz9AlA7",
     name: "이즈미(수영복)",
     nameEn: "Izumi-Swim",
   },
-  {
-    /*       { thumbSrc:"" ,name:"시로코(라이딩)" ,nameEn:"Shiroko-Cycling" }, */
-  },
+
+  /*       { thumbSrc:"" ,name:"시로코(라이딩)" ,nameEn:"Shiroko-Cycling" }, */
+
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1RyLH2WpyGVjmmuhjXNzyd20AOH224C5w",
@@ -391,9 +383,9 @@ export const localDbCard = [
     name: "키리노",
     nameEn: "Kirino",
   },
-  {
-    /*       { thumbSrc:"" ,name:"사야(사복)" ,nameEn:"Saya-Casual" }, */
-  },
+
+  /*       { thumbSrc:"" ,name:"사야(사복)" ,nameEn:"Saya-Casual" }, */
+
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1Wwxe9CqARPeOfxmLq3kHK4eLelR88X3O",
@@ -424,9 +416,9 @@ export const localDbCard = [
     name: "마리",
     nameEn: "Mari",
   },
-  {
-    /*       { thumbSrc:"" ,name:"하츠네미쿠" ,nameEn:"Hatsune-Miku" }, */
-  },
+
+  /*       { thumbSrc:"" ,name:"하츠네미쿠" ,nameEn:"Hatsune-Miku" }, */
+
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1C66jJcfEAWlnmaz_ytpuyKfkqCH8FIku",
@@ -451,9 +443,9 @@ export const localDbCard = [
     name: "토모에",
     nameEn: "Tomoe",
   },
-  {
-    /*       { thumbSrc:"" ,name:"노도카(온천)" ,nameEn:"Nodoka-Hot" }, */
-  },
+
+  /*       { thumbSrc:"" ,name:"노도카(온천)" ,nameEn:"Nodoka-Hot" }, */
+
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1GO9KLl5t617h8EJsd-HoC0KbgHrNZVQQ",
@@ -557,12 +549,8 @@ export const localDbCard = [
     name: "츠쿠요",
     nameEn: "Tsukuyo",
   },
-  {
-    /*       { thumbSrc:"" ,name:"미사키" ,nameEn:"Misaki" }, */
-  },
-  {
-    /*       { thumbSrc:"" ,name:"히요리" ,nameEn:"Hiyori" }, */
-  },
+  /*       { thumbSrc:"" ,name:"미사키" ,nameEn:"Misaki" }, */
+  /*       { thumbSrc:"" ,name:"히요리" ,nameEn:"Hiyori" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=11wiS45G4f4R6yuiDdla3K9yYBF1CxFHh",
@@ -635,12 +623,8 @@ export const localDbCard = [
     name: "코코나",
     nameEn: "Kokona",
   },
-  {
-    /*       { thumbSrc:"" ,name:"우타하(응원단)" ,nameEn:"Utaha-Cheer" }, */
-  },
-  {
-    /*       { thumbSrc:"" ,name:"노아" ,nameEn:"Noa" }, */
-  },
+  /*       { thumbSrc:"" ,name:"우타하(응원단)" ,nameEn:"Utaha-Cheer" }, */
+  /*       { thumbSrc:"" ,name:"노아" ,nameEn:"Noa" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1a1ETXW3zLBxSxoX_s0chwul22HIBWDuE",
@@ -689,9 +673,7 @@ export const localDbCard = [
     name: "세리나(크리스마스)",
     nameEn: "Serina-Christmas",
   },
-  {
-    /*       { thumbSrc:"" ,name:"하나에(크리스마스)" ,nameEn:"Hanae-Christmas" }, */
-  },
+  /*       { thumbSrc:"" ,name:"하나에(크리스마스)" ,nameEn:"Hanae-Christmas" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1IDO_RLn_8CJ8YGxYsUwUGxUve2kVsKJj",
@@ -734,9 +716,7 @@ export const localDbCard = [
     name: "칸나",
     nameEn: "Kanna",
   },
-  {
-    /*       { thumbSrc:"" ,name:"사쿠라코" ,nameEn:"Sakurako" }, */
-  },
+  /*       { thumbSrc:"" ,name:"사쿠라코" ,nameEn:"Sakurako" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1bVj3FTuCWDlz5hgQ92HWCQc20PojovRq",
@@ -749,9 +729,7 @@ export const localDbCard = [
     name: "나기사",
     nameEn: "Nagisa",
   },
-  {
-    /*       { thumbSrc:"" ,name:"코유키" ,nameEn:"Koyuki" }, */
-  },
+  /*       { thumbSrc:"" ,name:"코유키" ,nameEn:"Koyuki" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=12uZgR3G7VM6lYQkeZNgnwbsuyaJUABrC",
@@ -764,9 +742,7 @@ export const localDbCard = [
     name: "하루카(새해)",
     nameEn: "Haruka-New",
   },
-  {
-    /*       { thumbSrc:"" ,name:"카호" ,nameEn:"Kaho" }, */
-  },
+  /*       { thumbSrc:"" ,name:"카호" ,nameEn:"Kaho" }, */
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1Y35TCWci_mmuRbMB3soDGn1Y_ykQlDJf",

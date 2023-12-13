@@ -14,12 +14,6 @@ const nextConfig = {
         port: "",
         pathname: "/**",
       },
-      {
-        protocol: "https",
-        hostname: "i.ibb.co",
-        port: "",
-        pathname: "/**",
-      },
     ], // 이미지 호스트명 추가
   },
 };

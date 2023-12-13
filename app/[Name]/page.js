@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { find } from "./find";
 
 export default async function CharaMotion(prop) {

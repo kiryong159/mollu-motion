@@ -403,7 +403,7 @@ export const localDB21_40 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1MShn8KE3qVxwTElJChK08zRg7_7v4_ET",
     Cafe2: "",
     ExReload: "",
     Name: "Hare",

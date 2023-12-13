@@ -3,7 +3,7 @@ export const localDB = [
     _id: { $oid: "656c07b569355bff07f51293" },
     Win: "https://drive.google.com/uc?export=view&id=1EvxGgzA1T-olfB_2leAoynA7uz9fvGG3",
     Start:
-      "https://drive.google.com/uc?export=view&id=1EvxGgzA1T-olfB_2leAoynA7uz9fvGG3",
+      "https://drive.google.com/uc?export=view&id=1k0X-3xysVmuGyyFkIXvWdiL5aegkS82_",
     Reload:
       "https://drive.google.com/uc?export=view&id=1yz-rbFMfsBUpajCXW8vuW2tCT50Zcmon",
     Ex: "https://drive.google.com/uc?export=view&id=1XZRcRf6X-VafHzvbLGYA0Ks8e7NrgwxH",

@@ -36,5 +36,5 @@ yarn-error.log*
 next-env.d.ts
 
 
-/app/[Name]/backup.js
-/app/[Name]/Schema.js
+*/backup.js
+*/Schema.js

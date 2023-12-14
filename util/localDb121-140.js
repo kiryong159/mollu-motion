@@ -195,4 +195,35 @@ export const localDB121_140 = [
     Ex2: "",
     Win2: "",
   },
+  {
+    Win: "https://drive.google.com/uc?export=view&id=1VXSatSMSfP2rO-bwt8agGl60csbDBqPe",
+    Start:
+      "https://drive.google.com/uc?export=view&id=1FjWYRpils9h2uCTO_CvKrLQEeY9xACxT",
+    Reload:
+      "https://drive.google.com/uc?export=view&id=1L_d-iCG3r5JVVtp3MR0ZpvTphu5symfh",
+    Ex: "https://drive.google.com/uc?export=view&id=1fUKJYB9P3SYEG_RkPCyJKdMflKcOlcEG",
+    ExAttack: "",
+    Attack:
+      "https://drive.google.com/uc?export=view&id=1jbf7wkT9cBuPZdaKfrFpPE4qGZABzfLH",
+    Pick: "https://drive.google.com/uc?export=view&id=1Dzz4xcPrjVh92to_tIRAsm_V_gPqSo3d",
+    Hide: "https://drive.google.com/uc?export=view&id=1Alk7ywBauFsQX2ijMfNtP-uPrHFJ2yo-",
+    HideAttack:
+      "https://drive.google.com/uc?export=view&id=1AZV7YVQjNrx1c7x2PfhE0wAggtflvkjB",
+    HideReload:
+      "https://drive.google.com/uc?export=view&id=1h9ZTz9qaIWMWdGzO6UtP61H-uJwrPQPh",
+    Object: "",
+    Cafe: "",
+    Cafe2: "",
+    ExReload: "",
+    Name: "Koharu",
+    Kname: "코하루",
+    Ns: "https://drive.google.com/uc?export=view&id=1nxWGZk53U9sX1m7ccLy2pCQ-eR13KLZr",
+    ExNs: "",
+    HideReload2: "",
+    Reload2: "",
+    Start2: "",
+    Cafe3: "",
+    Ex2: "",
+    Win2: "",
+  },
 ];

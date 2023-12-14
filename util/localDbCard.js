@@ -326,7 +326,12 @@ export const localDbCard = [
     name: "하나코",
     nameEn: "Hanako",
   },
-  /*       { thumbSrc:"" ,name:"코하루" ,nameEn:"Koharu" } */
+  {
+    thumbSrc:
+      "https://drive.google.com/uc?export=view&id=1JxwidFwG0ehOuLL6M3dvlzvSvbEMbH-L",
+    name: "코하루",
+    nameEn: "Koharu",
+  },
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1CNNNp4s6MxMxPBd69fdZuJ9uEAbIrPPU",

@@ -8,7 +8,7 @@ export default function Search() {
   const [keyword, setKeyword] = useState("");
 
   const onChange = (event) => {
-    console.log(event.target.value);
+    /*  console.log(event.target.value); */
     setKeyword(event.target.value);
   };
   const filterKeyword =
@@ -17,7 +17,7 @@ export default function Search() {
       : localDbCard.filter((item) => {
           return item.name.includes(keyword);
         });
-  console.log(filterKeyword);
+  /*  console.log(filterKeyword); */
   return (
     <div className="flex flex-col mt-[70px] ">
       <input

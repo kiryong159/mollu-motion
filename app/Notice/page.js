@@ -9,7 +9,7 @@ export default function Notice() {
         </p>
         <div className="space-y-3 ">
           <p>히나 , 마시로 , 유즈</p>
-          <p>코하루 , 수히나 , 수오리</p>
+          <p>미노리 , 수히나 , 수오리</p>
           <p>라로코 , 사사야 , 미쿠</p>
           <p>온도카 , 미사키 ,히요리</p>
           <p>응타하 ,노아 ,하나에(클스)</p>
@@ -48,6 +48,19 @@ export default function Notice() {
           느린 경우는 만들때 속도 조절을 잘못했거나 모션같은거 좀 보라고 느리게
           한경우도 있음(와카모승리모션)
         </p>
+        <p className="text-red-300">Q : 없는캐릭 빌리면 안됨? </p>
+        <p>
+          A : 일단 스트라이커는 빌리면 리더 지정 이안되서 시작모션을 못찍음
+          스페셜은 테스트로 하루카(새해) 칸나 찍어봤음. 하지만 카페모션을
+          못찍음..
+        </p>
+      </div>
+
+      <div className="p-5 space-y-3 text-[15px] md:text-[25px] bg-gray-500 rounded-md leading-6 md:leading-10 ">
+        <p className="text-red-300">수정 내용</p>
+        <p>아루, 하스미 카페 모션 추가</p>
+        <p>코하루 추가</p>
+        <p>오브젝트 넘는모션 누락 수정</p>
       </div>
     </div>
   );

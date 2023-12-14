@@ -192,6 +192,18 @@ export default async function CharaMotion(prop) {
         </>
       ) : null}
 
+      {result.Object ? (
+        <>
+          <h1 className="  ">오브젝트</h1>
+          <img
+            loading="lazy"
+            className="rounded-md shadow-md"
+            src={`${result.Object}`}
+            alt="Obj"
+          />
+        </>
+      ) : null}
+
       {result.Win ? (
         <>
           <h1 className="  ">전투 승리 </h1>

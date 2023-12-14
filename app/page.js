@@ -283,7 +283,11 @@ export default function Home() {
         name="하나코"
         nameEn="Hanako"
       />
-      {/*       <Card thumbSrc="" name="코하루" nameEn="Koharu" /> */}
+      <Card
+        thumbSrc="https://drive.google.com/uc?export=view&id=1JxwidFwG0ehOuLL6M3dvlzvSvbEMbH-L"
+        name="코하루"
+        nameEn="Koharu"
+      />
       <Card
         thumbSrc="https://drive.google.com/uc?export=view&id=1CNNNp4s6MxMxPBd69fdZuJ9uEAbIrPPU"
         name="아즈사(수영복)"

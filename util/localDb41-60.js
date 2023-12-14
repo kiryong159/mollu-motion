@@ -382,8 +382,9 @@ export const localDB41_60 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1Rninnlh-IMVgCxjZbOh6Ey6QI6gZT1NG",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1-0AUV5ReQAqrfCQ0wZhMpBMACdCBx7J-",
     ExReload: "",
     Name: "Mashiro-Swim",
     Kname: "마시로(수영복)",

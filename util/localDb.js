@@ -324,7 +324,7 @@ export const localDB = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1KohdKSHPYp2TamXY7GRLvTXYR8_6xiUv",
     Cafe2: "",
     ExReload:
       "https://drive.google.com/uc?export=view&id=1z-1PSp5Ps1y47enFmj_W0TO4fi8Z_mb7",

@@ -140,8 +140,9 @@ export const localDB101_120 = [
       "https://drive.google.com/uc?export=view&id=1-bFmVTAodtlW-NHOIQwthEw5Wy21XMJ3",
     Object:
       "https://drive.google.com/uc?export=view&id=14IA33cWo5hKrmFa3yM6ydnbxlfo5zzDn",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=18H_mvXkkvoScGi3rB4UESMbpTlFJw_IE",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1U2dTwALxPxcPUUkJzMM2BO1RF4wMZzcy",
     ExReload: "",
     Name: "Mari-Track",
     Kname: "마리(체육복)",

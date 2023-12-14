@@ -57,10 +57,13 @@ export default function Notice() {
       </div>
 
       <div className="p-5 space-y-3 text-[15px] md:text-[25px] bg-gray-500 rounded-md leading-6 md:leading-10 ">
-        <p className="text-red-300">수정 내용</p>
-        <p>아루, 하스미 카페 모션 추가</p>
-        <p>코하루 추가</p>
-        <p>오브젝트 넘는모션 누락 수정</p>
+        <p className="text-red-300">12.14 수정 내용</p>
+        <ul className="px-3">
+          <li>아루,하스미,츠루기,수시로,세나,운마리 카페 모션 추가 </li>
+          <li>수시로 운마리 세나 가구 모션 추가</li>
+          <li>코하루 추가</li>
+          <li>오브젝트 넘는모션 누락 수정</li>
+        </ul>
       </div>
     </div>
   );

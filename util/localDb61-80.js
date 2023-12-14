@@ -379,8 +379,9 @@ export const localDB61_80 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1LM7vtZlt4bVAW3PMqWrhhkdpoU78_qfu",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1hGGZoWX557iTeu5P5t6HzMddqHiOX12R",
     ExReload:
       "https://drive.google.com/uc?export=view&id=1OknBEL6fIhvsbWgRm3mkJpSDU0qZDp9F",
     Name: "Sena",

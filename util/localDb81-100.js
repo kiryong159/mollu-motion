@@ -116,8 +116,9 @@ export const localDB81_100 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1iOK6Lftkn2wvsqZVSJAoe_0TLc_xrydI",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1VhK8ZKmI_DqBmZkhRE4m72ratiy7nkTO",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1VuzuQhsX-EusC44cZZ0UwadMWQzDriM6",
     ExReload: "",
     Name: "Miyu",
     Kname: "미유",
@@ -532,8 +533,9 @@ export const localDB81_100 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1rqz62EizlqwOVrUdl2D9RL_MPNGhIhiB",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1QN8K6fMoUcrpGKUM-exovQSiCN6AyFtv",
     ExReload: "",
     Name: "Moe",
     Kname: "모에",

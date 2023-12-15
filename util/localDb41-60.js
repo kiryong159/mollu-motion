@@ -166,8 +166,9 @@ export const localDB41_60 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1ZZvSDvsXCnWuHIo4qWnVDCCkwYW7xSS8",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1FrLHj8iKZELse2VTFkQAJEI6eq_1IXq4",
     ExReload: "",
     Name: "Shizuko",
     Kname: "시즈코",

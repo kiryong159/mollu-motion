@@ -21,6 +21,6 @@ const schema = {
   HideAttack: "",
   HideReload: "",
   HideReload2: "",
-  Name: "Base",
-  Kname: "Base",
+  Name: "영어이름 이격은 aaa-Swim 으로 표기",
+  Kname: "한국 이름 세리나(크리스마스) 표기",
 };

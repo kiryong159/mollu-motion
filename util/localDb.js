@@ -40,7 +40,7 @@ export const localDB = [
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1KsM3_tOFLlPJMl0GKayf_xJMhoKVWfYQ",
     Cafe2:
-      "https://drive.google.com/uc?export=view&id=1bBjx8Mgtrg7yU_DQTB7Kq54PFip7ysJD",
+      "https://drive.google.com/uc?export=view&id=1bPnCpmhHAIiqoM_lQOS52cCTJlGfeNex",
     ExReload: "",
     Name: "Aru_New",
     Kname: "아루(새해)",

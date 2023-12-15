@@ -665,7 +665,12 @@ export const localDbCard = [
     name: "세리나(크리스마스)",
     nameEn: "Serina-Christmas",
   },
-  /*       { thumbSrc:"" ,name:"하나에(크리스마스)" ,nameEn:"Hanae-Christmas" } */
+  {
+    thumbSrc:
+      "https://drive.google.com/uc?export=view&id=1TxUBQE5zo1tyeR_HgEMXwNoCTIdFrHy7",
+    name: "하나에(크리스마스)",
+    nameEn: "Hanae-Christmas",
+  },
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1CgWwLENzXbrcD04oApA8iSDFMm0K9vua",

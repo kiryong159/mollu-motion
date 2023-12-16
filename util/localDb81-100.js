@@ -284,8 +284,9 @@ export const localDB81_100 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1xem-rgqYj5Gt2-Xtus1U-1WyCpqTv9e2",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1gGesmxNQaOJa7dE2h8IU89WdRy5YXttp",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1YCcf5o1HPfpwddHSQWs4PLLysdhbFL4T",
     ExReload: "",
     Name: "Wakamo-Swim",
     Kname: "와카모(수영복)",

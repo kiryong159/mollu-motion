@@ -448,8 +448,9 @@ export const localDB61_80 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=10uxYr7_3PkT_3zJjTSbeOsm6j31sTGaf",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1z-ASbugnUWq_YPGvCCJER-qG5f6BPV8l",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1HKb6uCr2lJeiep04VTZuf5mgnz4zMdW_",
     ExReload: "",
     Name: "Mimori",
     Kname: "미모리",

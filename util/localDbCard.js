@@ -739,7 +739,12 @@ export const localDbCard = [
     name: "하루카(새해)",
     nameEn: "Haruka-New",
   },
-  /*       { thumbSrc:"" ,name:"카호" ,nameEn:"Kaho" } */
+  {
+    thumbSrc:
+      "https://drive.google.com/uc?export=view&id=1tS0lfgkHwtCPpb9IlOwfTBPTO82kYuv0",
+    name: "카호",
+    nameEn: "Kaho",
+  },
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1b-6njO9eX7dciW85E89RfzmSBgkAUj3e",

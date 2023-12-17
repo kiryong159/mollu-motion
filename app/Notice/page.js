@@ -60,6 +60,17 @@ export default function Notice() {
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+              12.17 수정 내용
+            </span>
+          </summary>
+          <ul className="px-4">
+            <li>히마리,카린,메유즈,코코나 카페 모션 추가 </li>
+            <li>히마리,코유키,메유즈,코코나,노아 가구 모션 추가</li>
+          </ul>
+        </details>
+        <details>
+          <summary>
+            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
               12.16 수정 내용
             </span>
           </summary>

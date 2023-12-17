@@ -297,7 +297,7 @@ export const localDB21_40 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1mgEcFMwcMUFoB8D7mHCKTXth5G5FgZ9H",
     Cafe2: "",
     ExReload: "",
     Name: "Karin",

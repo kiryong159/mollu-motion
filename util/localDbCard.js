@@ -616,7 +616,12 @@ export const localDbCard = [
     nameEn: "Kokona",
   },
   /*       { thumbSrc:"" ,name:"우타하(응원단)" ,nameEn:"Utaha-Cheer" } */
-  /*       { thumbSrc:"" ,name:"노아" ,nameEn:"Noa" } */
+  {
+    thumbSrc:
+      "https://drive.google.com/uc?export=view&id=1HNfinECy5iYEsyJvygroSBJ_ESYaAP9k",
+    name: "노아",
+    nameEn: "Noa",
+  },
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=12tU8x-XLqPhxHHFiKjOH5NkciAA_stZi",
@@ -726,7 +731,12 @@ export const localDbCard = [
     name: "나기사",
     nameEn: "Nagisa",
   },
-  /*       { thumbSrc:"" ,name:"코유키" ,nameEn:"Koyuki" } */
+  {
+    thumbSrc:
+      "https://drive.google.com/uc?export=view&id=1nLQGRFDyI1sgluWuTztT4ehhkuGiCtdZ",
+    name: "코유키",
+    nameEn: "Koyuki",
+  },
   {
     thumbSrc:
       "https://drive.google.com/uc?export=view&id=1FQG2_Qe-bWv_CP61N2S1Pp839Si0cmLM",

@@ -17,8 +17,9 @@ export const localDB101_120 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1KnLyj0OJe5YQSKn0VAgMGvfT1_KLU0YQ",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1Jedv7ibVucy44HQ1Hz4yjYxDSOmHJcwN",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1JkI3ljVKCY6Xzn5fb_6pmD6Jr7aH1dvE",
     ExReload: "",
     Name: "Kokona",
     Kname: "코코나",
@@ -202,8 +203,9 @@ export const localDB101_120 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=151_IAa2zk74P8U0ZDSyXnha6tjajLqfz",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=165BVuf-MenFsFNXkPEJ7fs1oAsBsKdqf",
     ExReload: "",
     Name: "Himari",
     Kname: "히마리",

@@ -407,7 +407,8 @@ export const localDB81_100 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1gqzgwUlurqnSAHDAERqFZyFV-Y0Z3PPp",
-    Cafe2: "",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1meOJf-8ZF0jVVqaxDnO6pDxV8HGRNjNC",
     ExReload: "",
     Name: "Shizuko-Swim",
     Kname: "시즈코(수영복)",

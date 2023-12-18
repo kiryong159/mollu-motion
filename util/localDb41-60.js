@@ -316,7 +316,7 @@ export const localDB41_60 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=18sqWZIhiUfcMXEZsgiSMTnQxB7LQ346-",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1-gFGaW2YZQ7LQKhspUwg0oHz36pywOuZ",
     Cafe2: "",
     ExReload: "",
     Name: "Azusa",

@@ -332,8 +332,9 @@ export const localDB61_80 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1UHaWamgrBLPP73yu0rhXGWG51LGecgJq",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1u_6vXmkXZm1D-kY2ShyaYT40pIBXUvzK",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1CRQd7CWg2JDaDMUv4kvFj2IkuOlRXXxi",
     ExReload: "",
     Name: "Wakamo",
     Kname: "와카모",

@@ -33,4 +33,4 @@ export default function Nav() {
   );
 }
 
-/*  md:w-[763px] xl:w-[1024px] xl:grid-cols-3 2xl:grid-cols-4  2xl:w-[1440px] 3xl:w-[1750px]  */
+/*  sm:640 md:w-[763px] xl:w-[1024px] 2xl:w-[1440px] 3xl:w-[1750px]  */

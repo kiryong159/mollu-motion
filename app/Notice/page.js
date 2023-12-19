@@ -60,6 +60,19 @@ export default function Notice() {
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+              12.19 수정 내용
+            </span>
+          </summary>
+          <ul className="px-4">
+            <li>와카모,하나코,아이리,수즈나,사키, 카페 모션 추가 </li>
+            <li>와카모,아이리,수즈나,사키 가구 모션 추가</li>
+            <li>모바일 세줄보기 버튼 추가</li>
+          </ul>
+        </details>
+
+        <details>
+          <summary>
+            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
               12.18 수정 내용
             </span>
           </summary>

@@ -339,8 +339,9 @@ export const localDB21_40 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1E_Y_sUr3AcNa_XTNDIHZ-bkhJbWl3pJK",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1vPBzHepUL0H1rW64BJxOzyP6WHnV9i0-",
     ExReload: "",
     Name: "Airi",
     Kname: "아이리",

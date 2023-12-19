@@ -91,8 +91,9 @@ export const localDB81_100 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=18fJ78jf-quFXn81ol0QtLmcGfceSB_TU",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1wxfXSgkCW-J2QLaRekn4K72PvfkJK4T3",
     ExReload: "",
     Name: "Saki",
     Kname: "사키",
@@ -439,8 +440,9 @@ export const localDB81_100 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1hROiOB0gNTWxV5ym_JYlyXDhGH81nACu",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1Tq3X2fVoe7gnfPEgS5bOXIUcv62LBxaU",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1V0PKEfZgV5iwDXxZSFSjnNi27S2xRu8O",
     ExReload: "",
     Name: "Izuna-Swim",
     Kname: "이즈나(수영복)",

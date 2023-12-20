@@ -139,8 +139,9 @@ export const localDB81_100 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=11Ma2e2Fq5vjBUeqHjNlK-FxvpDEwx0cn",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1nc92RyoC5PFFBeBgL6jvjoOXF-nbWcL0",
     ExReload: "",
     Name: "Kaede",
     Kname: "카에데",

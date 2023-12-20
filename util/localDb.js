@@ -444,7 +444,8 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1sFuirR82oRN51cfVM_IIqzEan5GVLBRy",
-    Cafe2: "",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=14WvOlYs6wuWKvsqYT91cyNRI1LhVnT59",
     ExReload: "",
     Name: "Nonomi",
     Kname: "노노미",

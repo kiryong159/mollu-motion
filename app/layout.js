@@ -17,6 +17,7 @@ export default function RootLayout({ children }) {
       <link rel="icon" href="/favicon.ico" sizes="any" />
       <body className={inter.className + " charaScrollBar bg-gray-700 "}>
         <RecoilRootComponent>{children}</RecoilRootComponent>
+
         <Nav />
       </body>
     </html>

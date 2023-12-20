@@ -89,7 +89,8 @@ export const localDB21_40 = [
       "https://drive.google.com/uc?export=view&id=1652N2NmBBAwIw8H7j1MwTfNTFSQuzcUJ",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1oV2W8phAeBodHZLiZ_R7Tk-477q4mtP_",
-    Cafe2: "",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1Q-brBZtqBxOTBiYAmwnO-F1we_TfJIAJ",
     ExReload: "",
     Name: "Serika",
     Kname: "세리카",

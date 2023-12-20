@@ -22,7 +22,7 @@ export default function Notice() {
         <p className="text-red-300">Q : 데이터 얼마정도 사용됨?</p>
         <p>
           A : 카페 가구 까지 있는애들은 18Mb 근처 없는애들은 10Mb 근처라고
-          생각하면될듯?
+          생각하면될듯? (접힌거 안펼쳐도 사진은 전부 다운받음)
         </p>
 
         <p className="text-red-300">Q : 왜케 화질구지 임? </p>
@@ -57,6 +57,19 @@ export default function Notice() {
       </div>
 
       <div className="p-5 space-y-3 text-[15px] md:text-[25px] bg-gray-500 rounded-md leading-6 md:leading-10 ">
+        <details>
+          <summary>
+            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+              12.20 수정 내용
+            </span>
+          </summary>
+          <ul className="px-4">
+            <li>카에데 카페 모션 추가 </li>
+            <li>카에데,노노미,세리카 가구 모션 추가</li>
+            <li>스크롤이 너무 긴거같아 접는기능 넣어봤습니다.</li>
+          </ul>
+        </details>
+
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">

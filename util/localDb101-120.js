@@ -76,8 +76,9 @@ export const localDB101_120 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1ue-oQakQEKo1ajj3-OFHj3Wwheg8fa7m",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1BO9Oo9XWl8RFWerwohTmUqfWdexni9Lu",
     ExReload: "",
     Name: "Akane-Bunny",
     Kname: "아카네(바니걸)",
@@ -236,8 +237,9 @@ export const localDB101_120 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1x0lY77_KUAxPt1nfm1jYONJ7a1FdXrIr",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1qEr40tgWJnYLgp5syrPOvKwTXyJh2Y0z",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1o5wDS-zaE5q6ONUOWbMju4PczNQo5h2g",
     ExReload: "",
     Name: "Shigure",
     Kname: "시구레",

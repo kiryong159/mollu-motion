@@ -24,7 +24,11 @@ export const localDbCard = [
     name: "히후미",
     nameEn: "Hifumi",
   },
-  /*       { thumbSrc:"" ,name:"히나" ,nameEn:"Hina" } */
+  {
+    thumbSrc: "/image/Hina-Thumb2.webp",
+    name: "히나",
+    nameEn: "Hina",
+  },
   {
     thumbSrc: "/image/Hoshino-Thumb2.webp",
     name: "호시노",
@@ -302,13 +306,21 @@ export const localDbCard = [
     name: "히나(수영복)",
     nameEn: "Hina-Swim",
   },
-  /*       { thumbSrc:"" ,name:"이오리(수영복)" ,nameEn:"Iori-Swim" } */
+  {
+    thumbSrc: "/image/Iori_Swim-Thumb2.webp",
+    name: "이오리(수영복)",
+    nameEn: "Iori-Swim",
+  },
   {
     thumbSrc: "/image/Izumi_Swim-Thumb2.webp",
     name: "이즈미(수영복)",
     nameEn: "Izumi-Swim",
   },
-  /*       { thumbSrc:"" ,name:"시로코(라이딩)" ,nameEn:"Shiroko-Cycling" } */
+  {
+    thumbSrc: "/image/Shiroko_Cycling-Thumb2.webp",
+    name: "시로코(라이딩)",
+    nameEn: "Shiroko-Cycling",
+  },
   {
     thumbSrc: "/image/Shun_Small-Thumb2.webp",
     name: "슌(어린이)",
@@ -319,7 +331,11 @@ export const localDbCard = [
     name: "키리노",
     nameEn: "Kirino",
   },
-  /*       { thumbSrc:"" ,name:"사야(사복)" ,nameEn:"Saya-Casual" } */
+  {
+    thumbSrc: "/image/Saya_Casual-Thumb2.webp",
+    name: "사야(사복)",
+    nameEn: "Saya-Casual",
+  },
   {
     thumbSrc: "/image/Neru_Bunny-Thumb2.webp",
     name: "네루(바니걸)",
@@ -456,7 +472,11 @@ export const localDbCard = [
     name: "츠쿠요",
     nameEn: "Tsukuyo",
   },
-  /*       { thumbSrc:"" ,name:"미사키" ,nameEn:"Misaki" } */
+  {
+    thumbSrc: "/image/Misaki-Thumb2.webp",
+    name: "미사키",
+    nameEn: "Misaki",
+  },
   /*       { thumbSrc:"" ,name:"히요리" ,nameEn:"Hiyori" } */
   {
     thumbSrc: "/image/Atsuko-Thumb2.webp",
@@ -518,7 +538,11 @@ export const localDbCard = [
     name: "코코나",
     nameEn: "Kokona",
   },
-  /*       { thumbSrc:"" ,name:"우타하(응원단)" ,nameEn:"Utaha-Cheer" } */
+  {
+    thumbSrc: "/image/Utaha_Cheer-Thumb2.webp",
+    name: "우타하(응원단)",
+    nameEn: "Utaha-Cheer",
+  },
   {
     thumbSrc: "/image/Noa-Thumb2.webp",
     name: "노아",
@@ -664,5 +688,10 @@ export const localDbCard = [
     thumbSrc: "/image/Mina-Thumb2.webp",
     name: "미나",
     nameEn: "Mina",
+  },
+  {
+    thumbSrc: "/image/Minori-Thumb2.webp",
+    name: "미노리",
+    nameEn: "Minori",
   },
 ];

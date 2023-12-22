@@ -49,99 +49,122 @@ export default function Notice() {
           한경우도 있음(와카모승리모션)
         </p>
         <p className="text-red-300">Q : 없는캐릭 빌리면 안됨? </p>
-        <p>
-          A : 일단 스트라이커는 빌리면 리더 지정 이안되서 시작모션을 못찍음
-          스페셜은 테스트로 하루카(새해) 칸나 찍어봤음. 하지만 카페모션을
-          못찍음..
-        </p>
+        <p>A : 빌릴수 있으면 일부라도 찍어서 올려보겠음. ,</p>
+        <p>스트라이커 는 승리,시작,카페모션 촬영불가</p>
+        <p>스페셜은 카페모션 촬영불가.</p>
       </div>
 
       <div className="p-5 space-y-3 text-[15px] md:text-[25px] bg-gray-500 rounded-md leading-6 md:leading-10 ">
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
-              12.20 수정 내용
+              12.22 수정 내용
             </span>
           </summary>
           <ul className="px-4">
-            <li>카에데 카페 모션 추가 </li>
-            <li>카에데,노노미,세리카 가구 모션 추가</li>
-            <li>스크롤이 너무 긴거같아 접는기능 넣어봤습니다.</li>
+            <li>후우카,슌(어린이),바카네,시구레 카페 모션 추가 </li>
+            <li>미사키,토모에,미노리,바카네,시구레 가구 모션 추가</li>
+            <li>
+              히나,사사야,미노리,수오리,온도카,응타하,코유키,라로코 기본 모션
+              일부 추가
+            </li>
           </ul>
         </details>
 
-        <details>
+        <details className="">
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
-              12.19 수정 내용
+              1주일치
             </span>
           </summary>
-          <ul className="px-4">
-            <li>와카모,하나코,아이리,수즈나,사키, 카페 모션 추가 </li>
-            <li>와카모,아이리,수즈나,사키 가구 모션 추가</li>
-            <li>모바일 세줄보기 버튼 추가</li>
-          </ul>
-        </details>
+          <div className="px-5">
+            <details>
+              <summary>
+                <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+                  12.20 수정 내용
+                </span>
+              </summary>
+              <ul className="px-4">
+                <li>카에데 카페 모션 추가 </li>
+                <li>카에데,노노미,세리카 가구 모션 추가</li>
+                <li>스크롤이 너무 긴거같아 접는기능 넣어봤습니다.</li>
+              </ul>
+            </details>
 
-        <details>
-          <summary>
-            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
-              12.18 수정 내용
-            </span>
-          </summary>
-          <ul className="px-4">
-            <li>아즈사,히비키,사야 카페 모션 추가 </li>
-            <li>수즈코,온도카 가구 모션 추가</li>
-          </ul>
-        </details>
+            <details>
+              <summary>
+                <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+                  12.19 수정 내용
+                </span>
+              </summary>
+              <ul className="px-4">
+                <li>와카모,하나코,아이리,수즈나,사키, 카페 모션 추가 </li>
+                <li>와카모,아이리,수즈나,사키 가구 모션 추가</li>
+                <li>모바일 세줄보기 버튼 추가</li>
+              </ul>
+            </details>
 
-        <details>
-          <summary>
-            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
-              12.17 수정 내용
-            </span>
-          </summary>
-          <ul className="px-4">
-            <li>히마리,카린,메유즈,코코나 카페 모션 추가 </li>
-            <li>히마리,코유키,메유즈,코코나,노아 가구 모션 추가</li>
-          </ul>
-        </details>
-        <details>
-          <summary>
-            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
-              12.16 수정 내용
-            </span>
-          </summary>
-          <ul className="px-4">
-            <li>수카모,미모리 카페 모션 추가 </li>
-            <li>카호,수카모,미모리 가구 모션 추가</li>
-          </ul>
-        </details>
+            <details>
+              <summary>
+                <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+                  12.18 수정 내용
+                </span>
+              </summary>
+              <ul className="px-4">
+                <li>아즈사,히비키,사야 카페 모션 추가 </li>
+                <li>수즈코,온도카 가구 모션 추가</li>
+              </ul>
+            </details>
 
-        <details>
-          <summary>
-            <span className="text-red-300 hover:cursor-pointer  hover:text-red-400 transition-all">
-              12.15 수정 내용
-            </span>
-          </summary>
-          <ul className="px-4">
-            <li>루미,시즈코,미유,모에 카페 모션 추가 </li>
-            <li>루미,시즈코,미유,모에,하나에(크리스마스) 가구 모션 추가</li>
-          </ul>
-        </details>
+            <details>
+              <summary>
+                <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+                  12.17 수정 내용
+                </span>
+              </summary>
+              <ul className="px-4">
+                <li>히마리,카린,메유즈,코코나 카페 모션 추가 </li>
+                <li>히마리,코유키,메유즈,코코나,노아 가구 모션 추가</li>
+              </ul>
+            </details>
+            <details>
+              <summary>
+                <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+                  12.16 수정 내용
+                </span>
+              </summary>
+              <ul className="px-4">
+                <li>수카모,미모리 카페 모션 추가 </li>
+                <li>카호,수카모,미모리 가구 모션 추가</li>
+              </ul>
+            </details>
 
-        <details>
-          <summary>
-            <span className="text-red-300 hover:cursor-pointer  hover:text-red-400 transition-all">
-              12.14 수정 내용
-            </span>
-          </summary>
-          <ul className="px-4">
-            <li>아루,하스미,츠루기,수시로,세나,운마리 카페 모션 추가 </li>
-            <li>수시로 운마리 세나 가구 모션 추가</li>
-            <li>코하루 추가</li>
-            <li>오브젝트 넘는모션 누락 수정</li>
-          </ul>
+            <details>
+              <summary>
+                <span className="text-red-300 hover:cursor-pointer  hover:text-red-400 transition-all">
+                  12.15 수정 내용
+                </span>
+              </summary>
+              <ul className="px-4">
+                <li>루미,시즈코,미유,모에 카페 모션 추가 </li>
+                <li>루미,시즈코,미유,모에,하나에(크리스마스) 가구 모션 추가</li>
+              </ul>
+            </details>
+
+            <details>
+              <summary>
+                <span className="text-red-300 hover:cursor-pointer  hover:text-red-400 transition-all">
+                  12.14 수정 내용
+                </span>
+              </summary>
+              <ul className="px-4">
+                <li>아루,하스미,츠루기,수시로,세나,운마리 카페 모션 추가 </li>
+                <li>수시로 운마리 세나 가구 모션 추가</li>
+                <li>코하루 추가</li>
+                <li>오브젝트 넘는모션 누락 수정</li>
+              </ul>
+            </details>
+          </div>
         </details>
       </div>
     </div>

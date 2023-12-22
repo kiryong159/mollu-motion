@@ -17,7 +17,7 @@ export const localDB61_80 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=15gq-xhaDmCPwSDssmRbuRxnNDTE8bMqc",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1oZ0Kl85HTEIhWZGIaGQ2gEqSO4YfHWQa",
     Cafe2: "",
     ExReload: "",
     Name: "Shun-Small",
@@ -262,7 +262,8 @@ export const localDB61_80 = [
       "https://drive.google.com/uc?export=view&id=1MvOaz_lGRRzcG6WqFV6rYo2TtYTHZ_0A",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Q-hp9zqPThcl3LWp9ssfsWm5zCg7kOyN",
-    Cafe2: "",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1kx7rpUqRtjOe_O80utihu_H-yFXhGHTo",
     ExReload: "",
     Name: "Tomoe",
     Kname: "토모에",

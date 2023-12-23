@@ -477,7 +477,11 @@ export const localDbCard = [
     name: "미사키",
     nameEn: "Misaki",
   },
-  /*       { thumbSrc:"" ,name:"히요리" ,nameEn:"Hiyori" } */
+  {
+    thumbSrc: "/image/Hiyori-Thumb2.webp",
+    name: "히요리",
+    nameEn: "Hiyori",
+  },
   {
     thumbSrc: "/image/Atsuko-Thumb2.webp",
     name: "아츠코",

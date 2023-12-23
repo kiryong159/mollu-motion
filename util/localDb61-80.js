@@ -359,8 +359,9 @@ export const localDB61_80 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1vqxjVsNtIXawtQutuKbUUwOFmEiqwPnX",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=15hw4VEGzxNqO-f219eGDSGQx9IeYioX8",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1SrPws13x7Ry8E63oAUFeapUBZ8zThB6a",
     ExReload: "",
     Name: "Fubuki",
     Kname: "후부키",
@@ -415,11 +416,13 @@ export const localDB61_80 = [
     _id: { $oid: "6571dbc515b2edfaa2894620" },
     Win: "",
     Start: "",
-    Reload: "",
-    Ex: "",
+    Reload:
+      "https://drive.google.com/uc?export=view&id=1ArSTIUalOJvHJnnfzcpMRCNpfVdMK-fy",
+    Ex: "https://drive.google.com/uc?export=view&id=1GE8Ud0tfZ5K6XhCo1_6DBovnYokioAnz",
     ExAttack: "",
-    Attack: "",
-    Pick: "",
+    Attack:
+      "https://drive.google.com/uc?export=view&id=1dptIrGGHgtP11XLKBhZRC1IBERRRLr0N",
+    Pick: "https://drive.google.com/uc?export=view&id=1I-ILeumDDMQMSu6sIjwfbelbnaNBZRgo",
     Hide: "",
     HideAttack: "",
     HideReload: "",
@@ -430,7 +433,7 @@ export const localDB61_80 = [
     ExReload: "",
     Name: "Hina-Swim",
     Kname: "히나(수영복)",
-    Ns: "",
+    Ns: "https://drive.google.com/uc?export=view&id=1gHUJ5OLkjBMFQftThKb8RE29oBPIgovu",
   },
   {
     _id: { $oid: "657309d57adbc27acd49840e" },

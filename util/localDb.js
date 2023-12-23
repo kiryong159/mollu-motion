@@ -300,7 +300,7 @@ export const localDB = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1uCn0H9JrSHJW_B-i-Y0S-VLnVejGcubI",
     Cafe2: "",
     ExReload: "",
     Name: "Sumire",

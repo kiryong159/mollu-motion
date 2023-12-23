@@ -58,6 +58,19 @@ export default function Notice() {
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+              12.23 수정 내용
+            </span>
+          </summary>
+          <ul className="px-4">
+            <li>후부키,스미레 카페 모션 추가 </li>
+            <li>후부키 가구 모션 추가</li>
+            <li>클나에,미사키,노아,수히나,히요리 기본 모션 일부 추가</li>
+          </ul>
+        </details>
+
+        <details>
+          <summary>
+            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
               12.22 수정 내용
             </span>
           </summary>
@@ -71,7 +84,7 @@ export default function Notice() {
           </ul>
         </details>
 
-        <details className="">
+        <details className="1주일묶음">
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
               1주일치

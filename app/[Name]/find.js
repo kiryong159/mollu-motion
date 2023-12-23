@@ -1,6 +1,7 @@
 import { localDB } from "@/util/localDb";
 import { localDB101_120 } from "@/util/localDb101-120";
 import { localDB121_140 } from "@/util/localDb121-140";
+import { localDB141_160 } from "@/util/localDb141-160";
 import { localDB21_40 } from "@/util/localDb21-40";
 import { localDB41_60 } from "@/util/localDb41-60";
 import { localDB61_80 } from "@/util/localDb61-80";
@@ -37,23 +38,37 @@ export function find(charaName) {
                 (item) => item.Name === charaName
               );
               /* console.log("121-140", found121_140); */
-              return (result = found121_140);
+              if (found121_140 === undefined) {
+                const found141_160 = localDB141_160.find(
+                  (item) => item.Name === charaName
+                );
+                return (result = found141_160);
+              } else {
+                //121-140에서 찾음
+                return (result = found121_140);
+              }
             } else {
+              //101~120에서 찾은경우
               return (result = found101_120);
             }
           } else {
+            //81~100에서 찾은경우
             return (result = found81_100);
           }
         } else {
+          //61~80에서 찾은경우
           return (result = found61_80);
         }
       } else {
+        //41~60애서 찾은경우
         return (result = found41_60);
       }
     } else {
+      //21~40에서 찾은경우
       return (result = found21_40);
     }
   } else {
+    //1~20에서 찾은경우
     return (result = found1_20);
   }
 }

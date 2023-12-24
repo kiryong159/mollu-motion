@@ -55,7 +55,7 @@ export const localDB41_60 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1yIxL1NcrRb3V7MapZuZ_9UfWUcIILhuy",
     Cafe2: "",
     ExReload: "",
     Name: "Juri",

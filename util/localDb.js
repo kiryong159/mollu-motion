@@ -252,8 +252,9 @@ export const localDB = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1M_ru3VWMq3QR7d0_YDZR3vWSRGLHU-Bi",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1CF5M7jiUv_MaLVgpobh3obh2rlnXD7F7",
     ExReload: "",
     Name: "Shiroko",
     Kname: "시로코",

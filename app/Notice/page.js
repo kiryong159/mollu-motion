@@ -58,6 +58,18 @@ export default function Notice() {
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+              12.24 수정 내용
+            </span>
+          </summary>
+          <ul className="px-4">
+            <li>시로코 카페 모션 추가 </li>
+            <li>시로코,준코,나츠 가구 모션 추가</li>
+          </ul>
+        </details>
+
+        <details>
+          <summary>
+            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
               12.23 수정 내용
             </span>
           </summary>

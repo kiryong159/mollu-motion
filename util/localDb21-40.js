@@ -65,7 +65,8 @@ export const localDB21_40 = [
       "https://drive.google.com/uc?export=view&id=1pIBkwqzoYHu7vQV8gablgPsHau5GY1Uq",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=17GVZ8IBuMgm80VhJ5CUXylcZta-0TEJx",
-    Cafe2: "",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1YdGkPkO83ajb6BIUZFvgXRS12gN0_X8G",
     ExReload: "",
     Name: "Junko",
     Kname: "준코",

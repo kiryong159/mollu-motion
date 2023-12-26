@@ -279,6 +279,7 @@ export default async function CharaMotion(prop) {
               src={`${result.Cafe2Webm}`}
               alt="Cafe2Webm"
               controls
+              loop
             />
           </details>
         </>
@@ -304,6 +305,7 @@ export default async function CharaMotion(prop) {
               src={`${result.CafeWebm}`}
               alt="Cafe2Webm"
               controls
+              loop
             />
           </details>
         </>

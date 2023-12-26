@@ -20,7 +20,7 @@ export default function MobileGrid() {
     const handleResize = () => {
       setWidth(window.innerWidth);
 
-       if (window.innerWidth > 639) {
+      if (window.innerWidth > 639) {
         oneLineFn();
       }
     };

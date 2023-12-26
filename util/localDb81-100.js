@@ -20,6 +20,8 @@ export const localDB81_100 = [
     Cafe: "https://drive.google.com/uc?export=view&id=1OZTw9FYCIXr68keTt0XeadkfG7GYQVRN",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=15icI8FUSK8HM-h7mq4ixdwN_mENyaH66",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1RrJcHFUhvsPevxzGQ-0IPUK-KbKeFRp0",
     ExReload: "",
     Name: "Hinata",
     Kname: "히나타",
@@ -411,6 +413,8 @@ export const localDB81_100 = [
     Cafe: "https://drive.google.com/uc?export=view&id=1gqzgwUlurqnSAHDAERqFZyFV-Y0Z3PPp",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1meOJf-8ZF0jVVqaxDnO6pDxV8HGRNjNC",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1-s4nQWA9Yb47svJTsn6A4GpFKvvp0WJA",
     ExReload: "",
     Name: "Shizuko-Swim",
     Kname: "시즈코(수영복)",

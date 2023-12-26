@@ -362,8 +362,9 @@ export const localDB41_60 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1DSZI-FekjW31-yTVceyknX9ZaZV3fFNB",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=11qNJ4eILIHe1g5NhJuowGozQor22mnku",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1E2Mxt641U7UN62bC2OghbYQx-kHG5rUx",
     ExReload: "",
     Name: "Azusa-Swim",
     Kname: "아즈사(수영복)",

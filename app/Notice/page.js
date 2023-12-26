@@ -5,15 +5,15 @@ export default function Notice() {
 
       <div className="p-5 text-[18px] space-y-7 md:text-[25px] bg-gray-500 rounded-md ">
         <p className="flex w-full mx-auto text-[25px] md:text-[35px] justify-center ">
-          없는캐릭 (20개)
+          없는캐릭 (17개)
         </p>
         <div className="space-y-3 ">
-          <p>히나 , 마시로 , 유즈</p>
+          <p>마시로 , 수사키</p>
           <p>미노리 , 수히나 , 수오리</p>
-          <p>라로코 , 사사야 , 미쿠</p>
+          <p>라로코 , 미쿠</p>
           <p>온도카 , 미사키 ,히요리</p>
-          <p>응타하 ,노아 ,하나에(클스)</p>
-          <p>칸나 , 사쿠라코 ,코유키 </p>
+          <p>응타하 , 노아 , 하나에(클스)</p>
+          <p>칸나 , 사쿠라코 </p>
           <p>하루카(새해) , 카호</p>
         </div>
       </div>
@@ -55,6 +55,19 @@ export default function Notice() {
       </div>
 
       <div className="p-5 space-y-3 text-[15px] md:text-[25px] bg-gray-500 rounded-md leading-6 md:leading-10 ">
+        <details>
+          <summary>
+            <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
+              12.26 수정 내용
+            </span>
+          </summary>
+          <ul className="px-4">
+            <li>이오리,수즈사,아스나,온리노,수미유 카페 모션 추가 </li>
+            <li>라로코,수즈사,유즈,온리노,수미유 가구 모션 추가</li>
+            <li>수야코,수사키,수미유,코유키,히나 기본 모션 추가</li>
+          </ul>
+        </details>
+
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">

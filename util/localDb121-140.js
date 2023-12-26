@@ -284,10 +284,12 @@ export const localDB121_140 = [
     Kname: "카호",
   },
   {
-    Win: "",
+    Win: "https://drive.google.com/uc?export=view&id=155AQR4YXyHn_uXw8qvs6pVKLCqZTFu_X",
     Win2: "",
-    Start: "",
-    Start2: "",
+    Start:
+      "https://drive.google.com/uc?export=view&id=1ufCiykg7-YoUsQFA0WntdEyyIChBxG2-",
+    Start2:
+      "https://drive.google.com/uc?export=view&id=18EET2ymbNe1S-HU2Qdd-_-LJC1Saui7u",
     Reload:
       "https://drive.google.com/uc?export=view&id=1al9wDJnNJDa_N66gnBXxK1AZckSY3lUk",
     Reload2: "",
@@ -373,9 +375,10 @@ export const localDB121_140 = [
     Kname: "노도카(온천)",
   },
   {
-    Win: "",
+    Win: "https://drive.google.com/uc?export=view&id=1Ubd8Sag7Jv_AekFlNEx7Mjd3YNOm7M3f",
     Win2: "",
-    Start: "",
+    Start:
+      "https://drive.google.com/uc?export=view&id=1mfXdsK6W2jRRAMPNf6rTE69fGD7B0teS",
     Start2: "",
     Reload: "",
     Reload2: "",
@@ -384,7 +387,7 @@ export const localDB121_140 = [
     Ns: "https://drive.google.com/uc?export=view&id=1WnNUkLREfaQgzyteuYJog0YR4M-yBk0u",
     Pick: "https://drive.google.com/uc?export=view&id=1VtvTfbKkEtjgwMVRLwo_AgO_cvStV_ip",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1vEn4O715GH3G7dTxoEywyJyEnJ_vxtKz",
     Cafe2: "",
     Cafe3: "",
     Ex: "https://drive.google.com/uc?export=view&id=1kbZY4Ias_FSaUK2XB-bl8rQl-6FKNL1x",
@@ -558,8 +561,11 @@ export const localDB121_140 = [
     Pick: "https://drive.google.com/uc?export=view&id=1OFOw36eu0llCroBox9l-7ljIrYrWAShW",
     Object: "",
     Cafe: "",
-    Cafe2: "",
+    Cafe2:
+      "https://drive.google.com/uc?export=view&id=1wGOVucqSEP-GUvofow8etqQE23Oed2jR",
     Cafe3: "",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1lCq2dZa7jCmZsIG-AI_nymKjtOsO2WFf",
     Ex: "https://drive.google.com/uc?export=view&id=1iFnqufDv-QBB_3F0t_-v0sQrHxXhI1AB",
     ExAttack: "",
     ExReload: "",
@@ -587,7 +593,8 @@ export const localDB121_140 = [
     Pick: "",
     Object: "",
     Cafe: "",
-    Cafe2: "",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=11bkrGxrcMt1YI3V-LhNCLEQNSxpJJe6z",
     Cafe3: "",
     Ex: "https://drive.google.com/uc?export=view&id=1zutAVGEqgrfvAYUb5PAg2_JT9U7hovfa",
     ExAttack: "",

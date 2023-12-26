@@ -13,8 +13,10 @@ export default function Home() {
   return (
     <div
       className={`w-[315px] bg-gray-700 mx-auto mt-[70px] p-5 gap-5 grid  ${
-        oneLine ? "grid-cols-1" : "grid-cols-3 3sm:w-[370px] 2sm:w-[420px]"
-      } sm:grid-cols-2 sm:w-[635px] md:w-[763px] xl:w-[1024px] xl:grid-cols-3 2xl:grid-cols-4  2xl:w-[1440px] 3xl:w-[1750px] 3xl:grid-cols-5 `}
+        oneLine
+          ? "grid-cols-1 sm:sm:grid-cols-2"
+          : "grid-cols-3 3sm:w-[370px] 2sm:w-[420px]  sm:grid-cols-5 xl:grid-cols-7 2xl:grid-cols-9 3xl:grid-cols-10"
+      }  sm:w-[635px] md:w-[763px] xl:w-[1024px] xl:grid-cols-4 2xl:grid-cols-5  2xl:w-[1440px] 3xl:w-[1750px] 3xl:grid-cols-5 `}
     >
       {oneLine === true ? (
         <>

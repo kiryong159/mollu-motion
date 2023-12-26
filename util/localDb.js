@@ -157,7 +157,7 @@ export const localDB = [
       "https://drive.google.com/uc?export=view&id=1mC7BU8d8EJ2Laaqv1qQQWq1yWTETPwnw",
     HideReload: "",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=14KLU3ujlO1CaxUP2MoZ3kkwqZx5-9ANy",
     Cafe2: "",
     ExReload: "",
     Name: "Iori",

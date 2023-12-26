@@ -10,8 +10,8 @@ const schema = {
   Pick: "",
   Object: "",
   Cafe: "",
-  Cafe2: "",
-  Cafe3: "",
+  Cafe2Webm: "",
+  Cafe3Webm: "",
   Ex: "",
   ExAttack: "",
   ExReload: "",
@@ -21,6 +21,7 @@ const schema = {
   HideAttack: "",
   HideReload: "",
   HideReload2: "",
+  Event: "",
   Name: "영어이름 이격은 aaa-Swim 으로 표기",
   Kname: "한국 이름 세리나(크리스마스) 표기",
 };

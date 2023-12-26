@@ -12,15 +12,15 @@ export default function MobileGrid() {
     setOneLine(true);
   };
 
-  const twoLineFn = () => {
+  const GridLineFn = () => {
     setOneLine(false);
   };
 
-  useEffect(() => {
+  /*   useEffect(() => {
     const handleResize = () => {
       setWidth(window.innerWidth);
 
-      if (window.innerWidth > 639) {
+       if (window.innerWidth > 639) {
         oneLineFn();
       }
     };
@@ -28,13 +28,13 @@ export default function MobileGrid() {
     return () => {
       window.removeEventListener("resize", handleResize);
     };
-  }, []);
+  }, []); */
 
   return (
-    <div className=" flex items-center justify-center bg-gray-500 text-white  rounded-md shadow-md px-3 py-2  sm:hidden">
+    <div className=" flex items-center justify-center bg-gray-500 text-white  rounded-md shadow-md px-3 py-2 ">
       {oneLine === true ? (
         <button
-          onClick={twoLineFn}
+          onClick={GridLineFn}
           className="w-full bg-gray-500 text-white  rounded-md shadow-md px-3 py-2 flex  justify-center items-center space-x-3 hover:cursor-pointer hover:scale-105 transition-all hover:bg-purple-200 hover:text-black"
         >
           <svg
@@ -53,7 +53,7 @@ export default function MobileGrid() {
             />
           </svg>
           <span className="font-bold text-[20px] whitespace-pre">
-            세줄 보기
+            여러줄 보기
           </span>
         </button>
       ) : (
@@ -78,7 +78,7 @@ export default function MobileGrid() {
           </svg>
 
           <span className="font-bold text-[10px] whitespace-pre">
-            한줄 보기
+            크게 보기
           </span>
         </button>
       )}

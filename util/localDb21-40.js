@@ -186,7 +186,7 @@ export const localDB21_40 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1gRPG-VCm2ygQqN-CziQdHKMl0nBZcHwc",
     Object: "",
-    Cafe: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1ReWQrWoo12Usr9LTbCMvzD8g30-uNHNn",
     Cafe2: "",
     ExReload: "",
     Name: "Asuna",

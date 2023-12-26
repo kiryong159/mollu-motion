@@ -42,6 +42,7 @@ export function find(charaName) {
                 const found141_160 = localDB141_160.find(
                   (item) => item.Name === charaName
                 );
+                /* console.log("141-160", found141_160); */
                 return (result = found141_160);
               } else {
                 //121-140에서 찾음

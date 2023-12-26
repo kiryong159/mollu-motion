@@ -209,8 +209,9 @@ export const localDB61_80 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    Cafe: "https://drive.google.com/uc?export=view&id=1M0VCIcmbNlxi5E6Tv_-b4pjPt5I4m4qo",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1_PvNjeRC4wxeuCq7OSxmXmq337rtibeu",
     ExReload:
       "https://drive.google.com/uc?export=view&id=1VUZ4J0G-1FZLJ2n3W63SX89P46ILq-We",
     Name: "Cherino-Hot",

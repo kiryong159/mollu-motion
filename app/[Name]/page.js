@@ -270,7 +270,19 @@ export default async function CharaMotion(prop) {
         </>
       ) : null}
 
-      {result.Cafe2 ? (
+      {result.Cafe2Webm ? (
+        <>
+          <details>
+            <summary className="  ">가구</summary>
+            <video
+              className="rounded-md shadow-md w-full h-auto"
+              src={`${result.Cafe2Webm}`}
+              alt="Cafe2Webm"
+              controls
+            />
+          </details>
+        </>
+      ) : result.Cafe2 ? (
         <>
           <details>
             <summary className="  ">가구</summary>
@@ -283,7 +295,19 @@ export default async function CharaMotion(prop) {
         </>
       ) : null}
 
-      {result.Cafe3 ? (
+      {result.Cafe3Webm ? (
+        <>
+          <details>
+            <summary className="  ">가구</summary>
+            <video
+              className="rounded-md shadow-md w-full h-auto"
+              src={`${result.CafeWebm}`}
+              alt="Cafe2Webm"
+              controls
+            />
+          </details>
+        </>
+      ) : result.Cafe3 ? (
         <>
           <details>
             <summary className="  ">가구2</summary>
@@ -291,6 +315,19 @@ export default async function CharaMotion(prop) {
               className="rounded-md shadow-md w-full h-auto"
               src={`${result.Cafe3}`}
               alt="Cafe3"
+            />
+          </details>
+        </>
+      ) : null}
+
+      {result.Event ? (
+        <>
+          <details>
+            <summary className="  ">이벤트</summary>
+            <img
+              className="rounded-md shadow-md w-full h-auto"
+              src={`${result.Event}`}
+              alt="Event"
             />
           </details>
         </>

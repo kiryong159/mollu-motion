@@ -257,7 +257,18 @@ export default async function CharaMotion(prop) {
         </>
       ) : null}
 
-      {result.Cafe ? (
+      {result.CafeWebm ? (
+        <details>
+          <summary className="  ">카페 </summary>
+          <video
+            className="rounded-md shadow-md w-full h-auto"
+            src={`${result.CafeWebm}`}
+            alt="Cafe"
+            controls
+            loop
+          />
+        </details>
+      ) : result.Cafe ? (
         <>
           <details>
             <summary className="  ">카페 </summary>

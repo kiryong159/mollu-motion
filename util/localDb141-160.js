@@ -1,14 +1,17 @@
 export const localDB141_160 = [
   {
-    Win: "",
+    Win: "https://drive.google.com/uc?export=view&id=17ASS6j2usWY7opbB2s9G-Ttd5cVbt_ZK",
     Win2: "",
-    Start: "",
+    Start:
+      "https://drive.google.com/uc?export=view&id=1DYSHmKcwFdpDCoKhPc0hQe3Wo7NmBDUd",
     Start2: "",
-    Reload: "",
+    Reload:
+      "https://drive.google.com/uc?export=view&id=1WtTCJNTIOE-6wcX55jwT6d0b_DnRXn9w",
     Reload2: "",
-    Attack: "",
-    Ns: "",
-    Pick: "",
+    Attack:
+      "https://drive.google.com/uc?export=view&id=11BZrLfvv_zsTYQdg3DfGkM937GozQ8mc",
+    Ns: "https://drive.google.com/uc?export=view&id=1hWbf6xPRzrNcxBZmdz1x1KZSRJkmstic",
+    Pick: "https://drive.google.com/uc?export=view&id=1qqy1oNFNcofiUF7RtfO2P1vWbsVrYFkc",
     Object: "",
     Cafe: "",
     Cafe2:
@@ -16,14 +19,16 @@ export const localDB141_160 = [
     Cafe3: "",
     Cafe2Webm:
       "https://drive.google.com/uc?export=view&id=1_SGOwBiCIB219ZBf72SE3cEfpV_DlW-2",
-    Ex: "",
+    Ex: "https://drive.google.com/uc?export=view&id=19bn2ewPaF_n_rL6KcwHB5uacWYHsAhih",
     ExAttack: "",
     ExReload: "",
     ExNs: "",
     Ex2: "",
-    Hide: "",
-    HideAttack: "",
-    HideReload: "",
+    Hide: "https://drive.google.com/uc?export=view&id=1hEHEoptEzFICksWSyKtMGihB5M05QDwV",
+    HideAttack:
+      "https://drive.google.com/uc?export=view&id=1UhZc3Gh4zr98dFLBcn_RdzgoJFlDRism",
+    HideReload:
+      "https://drive.google.com/uc?export=view&id=1tGUAA_UaCSYEmQf29bftrEdk-Xbf6uV7",
     HideReload2: "",
     Name: "Yuzu",
     Kname: "유즈",

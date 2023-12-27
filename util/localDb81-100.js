@@ -18,6 +18,8 @@ export const localDB81_100 = [
       "https://drive.google.com/uc?export=view&id=1GciBKIyjAK-scFA74KnVvdec2tWvZWqx",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1OZTw9FYCIXr68keTt0XeadkfG7GYQVRN",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=19H9cPxYN5i3JMZYjZqwNJof14LKECFXt",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=15icI8FUSK8HM-h7mq4ixdwN_mENyaH66",
     Cafe2Webm:
@@ -46,8 +48,12 @@ export const localDB81_100 = [
       "https://drive.google.com/uc?export=view&id=1fipDxKt_dq0rBup-ay74kbj2vWGblRGu",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=16g5d3B3rk9N7z73-Nub7d2Uty47ilbuC",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1i3b6dCKiUpri33XPfpGN0-BpBtLM1g3E",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1Qf3NZW379KKjrNSCeAsom9PlU3Gwzvkb",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1GoQzwbepVEbLdssZ0-_h24uPkgCM1Ljp",
     ExReload: "",
     Name: "Marina",
     Kname: "마리나",
@@ -72,8 +78,12 @@ export const localDB81_100 = [
       "https://drive.google.com/uc?export=view&id=1r0VsMwU6aAnEVGKXPcFr_Zoejcra2Dfz",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=11FdrMI4Sal7qZ5tFJMNGD4EAstqnTeL3",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1EMncouKeJJIT5k1nYLqv0h-JlHA9WuZ6",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1QE_hkuJ8rjpSBgxvxneCtK-vG0c9VmlT",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1VTmG6xGaGk-CiWwbqlwDHsPVpVZDP6dM",
     ExReload: "",
     Name: "Miyako",
     Kname: "미야코",

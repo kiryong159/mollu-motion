@@ -18,6 +18,8 @@ export const localDB21_40 = [
       "https://drive.google.com/uc?export=view&id=1UfalwHhDPEqnq0KU_HIKLBbQlj6JK9zf",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1YpYTLeLKsqpr3TwtSdUzNzen7WPtifRl",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1FbpvDCJNU_79AFvajh_2jvkMOrO-9UBd",
     Cafe2: "",
     ExReload: "",
     Name: "Kayoko",
@@ -234,6 +236,8 @@ export const localDB21_40 = [
       "https://drive.google.com/uc?export=view&id=1niKG87aHA5hLWbkyj9bh-FQvRmGWHkHe",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1cn3tpZFHQBC5pRwkT8eOhBO3Y8Qg4NVP",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1sAT3EdIlD_Cxuk9EyB16VS6bM7OwCVNV",
     Cafe2: "",
     ExReload: "",
     Name: "Suzumi",

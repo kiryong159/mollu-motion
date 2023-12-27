@@ -304,8 +304,12 @@ export const localDB101_120 = [
       "https://drive.google.com/uc?export=view&id=1HYlRuSsoNjtgadP-UINs5VhPXMdtK1SE",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Rwq4Uvs7IArDshe0EJoas1FpIcdzPdoI",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1CQeiyWYk4drNcxr97UJfxYBuIlrJ4dY9",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1hI-_G7elo2-pEBDl3IgM41s_Qn0FLt0S",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1hdQN0U3MTVZc4mPNgTqkN2hUt8lJZVTE",
     ExReload: "",
     Name: "Haruna-New",
     Kname: "하루나(새해)",
@@ -366,8 +370,12 @@ export const localDB101_120 = [
       "https://drive.google.com/uc?export=view&id=1pqBnEf8x0enFkKujgWWhyEQLKpSBK7B3",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1iFIYfwl-4ayqaZfxET4IXP_EWss-fNBd",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1dfjBb6roeHi3--jbZFsd2PFMtUExHThy",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1AKDjPnRGbn-A11_D03IBZEyId4OeqyrQ",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1p4UXCevc3u7JMRI-wLHYQa7qG0hq57S5",
     ExReload: "",
     Name: "Junko-New",
     Kname: "준코(새해)",
@@ -493,6 +501,8 @@ export const localDB101_120 = [
     Cafe: "",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1G9trhjFcI4t5Aa_ow5ua7518Qp_PDMIO",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1YyHts3sDiZDBudCDk2v5oESPjZY7LHFe",
     ExReload: "",
     Name: "Kanna",
     Kname: "칸나",

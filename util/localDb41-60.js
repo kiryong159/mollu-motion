@@ -119,6 +119,8 @@ export const localDB41_60 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1sIo-hA0ED7nPfrsGZlrJp0VulTZD8Dz8",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1UYBtICWnqKHsArfd1V-Fqu1VyFsTM9Ph",
     Cafe2: "",
     ExReload: "",
     Name: "Yoshimi",

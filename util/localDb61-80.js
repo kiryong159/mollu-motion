@@ -68,8 +68,12 @@ export const localDB61_80 = [
       "https://drive.google.com/uc?export=view&id=1bRLd1uBK5l7yE-p3BrvbkQvW1ipQNkoY",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1bYb3QJL5SW-_FZRMhVwukakLI6EMWBNj",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1qvWSUEHdJJmnv4UpxnU1Q7_VzLvbEMJ4",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=18-CUTY_ntrSzH3vkMrCkuK94r9tizfCQ",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1TTheIzB9E1_qGunvOIBiQy6zcSdGqL5H",
     ExReload: "",
     Name: "Neru-Bunny",
     Kname: "네루(바니걸)",

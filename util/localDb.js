@@ -134,7 +134,10 @@ export const localDB = [
     Object:
       "https://drive.google.com/uc?export=view&id=1FzdI1RMVhMBT2gZUbkMdVMkcAi78LiwW",
     Cafe: "https://drive.google.com/uc?export=view&id=1hRgzLllvYwv7E48_8wwouK5RKe1xM8g4",
-    Cafe2: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1lZV5u0mKfQI_X7pOLW_79WjqZLt8OqMb",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1F39_xazq7MLYdntiA7rUFgdT9z9dtSwt",
     ExReload: "",
     Name: "Hoshino",
     Kname: "호시노",
@@ -158,6 +161,8 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=14KLU3ujlO1CaxUP2MoZ3kkwqZx5-9ANy",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1qQNef30axPt9A0H4LHgt3UpWN8rDoOFh",
     Cafe2: "",
     ExReload: "",
     Name: "Iori",
@@ -181,6 +186,8 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1ukf4a_qQzKdmZ5oTJtGSzf23mQal_09Z",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1yC1h6hU0u3BzZOLA6_r1g1uNI7HZMZjd",
     Cafe2: "",
     ExReload: "",
     Name: "Maki",
@@ -229,7 +236,8 @@ export const localDB = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1HGXUjCI_ir7PbA71Hh-bDu2XO69b2qWV",
     Cafe2: "",
     ExReload: "",
     Name: "Izumi",
@@ -253,8 +261,12 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1M_ru3VWMq3QR7d0_YDZR3vWSRGLHU-Bi",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1xYo9R36Yzy-o654auIAzoQmNcrnSf_Xu",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1CF5M7jiUv_MaLVgpobh3obh2rlnXD7F7",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1KGd0ctS9cGSU8AW8yZP4S2LkSN8mbGTj",
     ExReload: "",
     Name: "Shiroko",
     Kname: "시로코",
@@ -326,6 +338,8 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1KohdKSHPYp2TamXY7GRLvTXYR8_6xiUv",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1hcLQbKygbqma6lszMI2v_dlnHfpfSD0T",
     Cafe2: "",
     ExReload:
       "https://drive.google.com/uc?export=view&id=1z-1PSp5Ps1y47enFmj_W0TO4fi8Z_mb7",
@@ -351,6 +365,8 @@ export const localDB = [
       "https://drive.google.com/uc?export=view&id=1k_XzIDlCb_9kqWX23OlNIZ9uzPGyIN92",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1RifxDtcXPEDfSmbi9ONjzkoJWDHctXJ6",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1Pqseth5GaragOIG1IaIM0AkHhWLiuVv-",
     Cafe2: "",
     ExReload: "",
     Name: "Akane",
@@ -399,6 +415,8 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1MlWgExzAhr64StZ9shuhq5WzjTOQ15bg",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=12QfvQKwWVHnUzxGBCcjEzGfvyVVi6mCm",
     Cafe2: "",
     ExReload: "",
     Name: "Akari",
@@ -445,8 +463,12 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1sFuirR82oRN51cfVM_IIqzEan5GVLBRy",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1oi4UGWmcNF_8W1BGXhgLY5cSzAMl2l3O",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=14WvOlYs6wuWKvsqYT91cyNRI1LhVnT59",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1CsZwXAiS0rGxssvenlMUxtpiYzqk0SfJ",
     ExReload: "",
     Name: "Nonomi",
     Kname: "노노미",

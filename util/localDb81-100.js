@@ -456,8 +456,12 @@ export const localDB81_100 = [
       "https://drive.google.com/uc?export=view&id=1hROiOB0gNTWxV5ym_JYlyXDhGH81nACu",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Tq3X2fVoe7gnfPEgS5bOXIUcv62LBxaU",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1gwXyp7EPD7u28Lw_0OICyN0MR4ZNlrh2",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1V0PKEfZgV5iwDXxZSFSjnNi27S2xRu8O",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1yDkULvqOnqN3kMkl8cKCCbwCGXLQPEbZ",
     ExReload: "",
     Name: "Izuna-Swim",
     Kname: "이즈나(수영복)",
@@ -491,8 +495,10 @@ export const localDB81_100 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1EnVdypyDvef1qSCL9YthkPeV62P6a_5e",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1JgQwteJypYf-r0UrnUK9Bza2Yrx3tm6M",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=19Wq7hTaWELD3Q-M1YFecc6pN8MZdiyJw",
     ExReload: "",
     Name: "Chise-Swim",
     Kname: "치세(수영복)",
@@ -584,8 +590,12 @@ export const localDB81_100 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Ndd_K9RIWuzzO60G89HWsHGwUNIMhqaW",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1yoV81jfv4CuNTZ5a0_lrMfzWrPK1zc_l",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1ZlOndWAuZIkegG5OgmRcTZs1tTLOoY8b",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=16vEE78J0HRA_RZ-y_GIh3aFWFrCO69kW",
     ExReload: "",
     Name: "Kazusa",
     Kname: "카즈사",

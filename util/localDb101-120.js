@@ -18,8 +18,12 @@ export const localDB101_120 = [
       "https://drive.google.com/uc?export=view&id=1KnLyj0OJe5YQSKn0VAgMGvfT1_KLU0YQ",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Jedv7ibVucy44HQ1Hz4yjYxDSOmHJcwN",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1sElrAXOgW3l0bv5ZsWPVl2vOpBn6a6sn",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1JkI3ljVKCY6Xzn5fb_6pmD6Jr7aH1dvE",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1JbvMjJnnezqMukGjBpmuzo-r4HLkPhE9",
     ExReload: "",
     Name: "Kokona",
     Kname: "코코나",
@@ -405,8 +409,12 @@ export const localDB101_120 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1PVZ22tB_4u5CRf7bQ0UoWPm1rrt-gGFI",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1guuFmc2w6lO5eeV2X8668Lhmi5xXqfcZ",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1Ic5E6Fd2pV4NbIiyow6KAntMXxPvL0R0",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1vLVlbjM73GYWXI0uBchKMq6FJ6iJhdEy",
     ExReload: "",
     Name: "Mine",
     Kname: "미네",
@@ -533,8 +541,12 @@ export const localDB101_120 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1YZE8tDILcp8CCBWNPT1nFX8IEqcY0fWt",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1FtvjndRyjKaQoC2wNqbgsMCEZxB59QWY",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1E2xGLrz8iaC5xvVkBbJH0X1JanZ91Oj2",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1v6qCFepZrzCZDTJ36ZkMrM0_xwl-YWsE",
     ExReload:
       "https://drive.google.com/uc?export=view&id=1bqFlT6qHIv5Z96nxMq__TptBXtY7YVJY",
     Name: "Toki",
@@ -564,8 +576,12 @@ export const localDB101_120 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1B_Oe_OBwgD7Aavv36WJ57HUyoACSw3Sh",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1TK61V2jbsSwVI6FJkldLi2xjLh2EHBMe",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1zymK2URTzYeXSr_EG8S1Fb_EY_kpns4D",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1V0ztquxsvN3PN-VqSIpm5XZp43ZMtX2R",
     ExReload: "",
     Name: "Nagisa",
     Kname: "나기사",

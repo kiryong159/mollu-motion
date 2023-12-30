@@ -170,8 +170,12 @@ export const localDB61_80 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1DormqF9CclHqHe46DaJ96Xi7tF2fggER",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1ERHjK-dacS3zYlaKlX8ntypLJtalxeKh",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1HWLd5ezfS8gyktuI03gqAT6f8EBoPQKG",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1N6QNEP4LuxerjTC2J7n57Y5UcWyvj6AH",
     ExReload: "",
     Name: "Mari",
     Kname: "마리",
@@ -268,8 +272,12 @@ export const localDB61_80 = [
       "https://drive.google.com/uc?export=view&id=1MvOaz_lGRRzcG6WqFV6rYo2TtYTHZ_0A",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Q-hp9zqPThcl3LWp9ssfsWm5zCg7kOyN",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=12bQP7q2ddei6xKrHxCftz6-IqH-MRuMa",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1kx7rpUqRtjOe_O80utihu_H-yFXhGHTo",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1vG0jJ0eNpkPsbZxTM1iqerhNepOL3QXg",
     ExReload: "",
     Name: "Tomoe",
     Kname: "토모에",
@@ -389,8 +397,12 @@ export const localDB61_80 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1LM7vtZlt4bVAW3PMqWrhhkdpoU78_qfu",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1Sk_grwiqL3R4S5Z7xSsdvQGVqX8O-k7g",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1hGGZoWX557iTeu5P5t6HzMddqHiOX12R",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=18zBvAY9H2jDqUErmAUAFYoG556tfq437",
     ExReload:
       "https://drive.google.com/uc?export=view&id=1OknBEL6fIhvsbWgRm3mkJpSDU0qZDp9F",
     Name: "Sena",
@@ -460,8 +472,12 @@ export const localDB61_80 = [
       "https://drive.google.com/uc?export=view&id=10uxYr7_3PkT_3zJjTSbeOsm6j31sTGaf",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1z-ASbugnUWq_YPGvCCJER-qG5f6BPV8l",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1ke2kmw7Fn-PjImAHyWkOezo4XWLrbYZq",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1HKb6uCr2lJeiep04VTZuf5mgnz4zMdW_",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1N_Iyui2-nsQeVUIhpeVHZFeDTFOW-nUd",
     ExReload: "",
     Name: "Mimori",
     Kname: "미모리",

@@ -35,6 +35,8 @@ export const localDB41_60 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=11RETNb3MGN0rlVQ9M0UoYiHWXQk2Lp_0",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1QcLRezpUxXgjSARus7CF9ytScXEQUMWZ",
     Cafe2: "",
     ExReload: "",
     Name: "Kotama",
@@ -294,6 +296,8 @@ export const localDB41_60 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=19A2-jehXJ6KAEgwzL6xKduhn1bXe4uV1",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1VlvhoSO16bbD3gxghjBKlti0G-yygUTM",
     Cafe2: "",
     ExReload: "",
     Name: "Nodoka",

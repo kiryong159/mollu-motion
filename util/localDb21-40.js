@@ -283,6 +283,8 @@ export const localDB21_40 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1vjfbijVzaW7AtZJCnwqKv-xJNSlSG6Dd",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1bIxm8k9II2pN5awScVNjkubZ5P1uO7Uj",
     Cafe2: "",
     ExReload: "",
     Name: "Hibiki",
@@ -325,6 +327,8 @@ export const localDB21_40 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1CIuF5IChZxfvZqmZK1FOF21D_zWK7AcS",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1yDBhVOTKcoBGD7uFJpCG6MAhQH730pn5",
     Cafe2: "",
     ExReload: "",
     Name: "Saya",
@@ -346,8 +350,12 @@ export const localDB21_40 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1E_Y_sUr3AcNa_XTNDIHZ-bkhJbWl3pJK",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1_hK0e-yLlF49noYA_K-gsE4sD851Gf_j",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1vPBzHepUL0H1rW64BJxOzyP6WHnV9i0-",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1ATSXU1FqQAk3-lU5yVKGTb0NMorNI4PO",
     ExReload: "",
     Name: "Airi",
     Kname: "아이리",
@@ -432,6 +440,8 @@ export const localDB21_40 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1n3IRBdX8gZdGOslD8CRSDuPycK1XXJAY",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1z_LefiTlUOq1fJk67tfQ0X833dsr6ilg",
     Cafe2: "",
     ExReload: "",
     Name: "Utaha",

@@ -123,7 +123,7 @@ export const localDB141_160 = [
     HideReload: "",
     HideReload2: "",
     Event:
-      "https://drive.google.com/uc?export=view&id=1rlTuEX72VEDSrvGgOxCWkvCA2--Iingn",
+      "https://drive.google.com/uc?export=view&id=1UuBEjwCUmjPl1zMPAwNg86qD4JijtAyk",
     Name: "Miyu-Swim",
     Kname: "미유(수영복)",
   },

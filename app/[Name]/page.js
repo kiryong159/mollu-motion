@@ -310,10 +310,10 @@ export default async function CharaMotion(prop) {
       {result.Cafe3Webm ? (
         <>
           <details>
-            <summary className="  ">가구</summary>
+            <summary className="  ">가구2</summary>
             <video
               className="rounded-md shadow-md w-full h-auto"
-              src={`${result.CafeWebm}`}
+              src={`${result.Cafe3Webm}`}
               alt="Cafe2Webm"
               controls
               loop

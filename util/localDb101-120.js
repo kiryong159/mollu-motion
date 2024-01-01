@@ -180,8 +180,12 @@ export const localDB101_120 = [
       "https://drive.google.com/uc?export=view&id=1f1nPiqmxnGIi30I4PIZeL-KhO5olv8Zu",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1yYtkWwFLQWV1ODQAw63hBXHoeNApOscV",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1OY8oG0BDFZFvZ9LfpiY2FCfWW7dXLbv2",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1ZlTQWK25_XHpyJy00LkNb5ppvRiO__oh",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1Ky7Cf_A88Em2xSv55Hqg8uZlA3Xp7v74",
     ExReload: "",
     Name: "Hasumi-Track",
     Kname: "하스미(체육복)",

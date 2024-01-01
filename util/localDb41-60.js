@@ -223,8 +223,14 @@ export const localDB41_60 = [
       "https://drive.google.com/uc?export=view&id=1oSTefequtb4fTuoqIcXMwqKoWoSbIrr5",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=178Z_MmXNI5TBjRhfknlmBlUfAUFAczKr",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1gi3zMlbkot6l3iOYWUBuBzdu7HAZFvn0",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1XBFHFUIIIssxAkDLEjATqUDkmZ6fbHp8",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1CXT5T8Fgkrj1rza3-V9T1SZr-AD5xgGr",
+    Cafe3Webm:
+      "https://drive.google.com/uc?export=view&id=1DLXeVAITkIhBFrxTiahR7jWB34ZpujmL",
     ExReload: "",
     Name: "Midori",
     Kname: "미도리",
@@ -249,8 +255,12 @@ export const localDB41_60 = [
       "https://drive.google.com/uc?export=view&id=13OQUlFupOl3yF689qK-EqjiB6nc8thBB",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1IOoVGfY6qKs1gccq6W4U7MSs-g3kSW10",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1gdpYCTWqp5Gj-inW-diXxBzcAB-IsMJW",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1-xUKlUshG6qxxU32mhuTl9AeUkcNQJG9",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1pWW2CHjrORUkZeKkMTmufb9Jtg3Kwk8o",
     ExReload: "",
     Name: "Momoi",
     Kname: "모모이",
@@ -369,8 +379,12 @@ export const localDB41_60 = [
       "https://drive.google.com/uc?export=view&id=1DSZI-FekjW31-yTVceyknX9ZaZV3fFNB",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=11qNJ4eILIHe1g5NhJuowGozQor22mnku",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1PgqDKnCSTgAZUhGEitGbJSDwJ1iY6xut",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1E2Mxt641U7UN62bC2OghbYQx-kHG5rUx",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1NdYHe92FslPPehZWygAHpAnAUBYxQ9qi",
     ExReload: "",
     Name: "Azusa-Swim",
     Kname: "아즈사(수영복)",

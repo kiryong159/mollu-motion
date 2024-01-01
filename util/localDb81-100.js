@@ -104,8 +104,12 @@ export const localDB81_100 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=18fJ78jf-quFXn81ol0QtLmcGfceSB_TU",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=19JEqVmPdAr1DchZTIHUDeftLMGHeeSry",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1wxfXSgkCW-J2QLaRekn4K72PvfkJK4T3",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1NMxHteks1KBpgO36i5PAcf0F8Pt4T0Cn",
     ExReload: "",
     Name: "Saki",
     Kname: "사키",
@@ -299,8 +303,12 @@ export const localDB81_100 = [
       "https://drive.google.com/uc?export=view&id=1xem-rgqYj5Gt2-Xtus1U-1WyCpqTv9e2",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1gGesmxNQaOJa7dE2h8IU89WdRy5YXttp",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=180cH5mNozN3YfpyTl6lnS7HZQANj8U2H",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1YCcf5o1HPfpwddHSQWs4PLLysdhbFL4T",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1UGAVbxl8DQy0MA2BqTspPWb69P9IufJK",
     ExReload: "",
     Name: "Wakamo-Swim",
     Kname: "와카모(수영복)",

@@ -16,8 +16,12 @@ export const localDB121_140 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1lfEqDoYoupf5PF1Nde5y7Kd6mhNwtcYt",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1GafQwJJEFpwZw4kXt3rQpeRperwmJrxz",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1mCtycP-ZiXH21nINmJ58dA3jbiQLVMXV",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1j7lN13eifEwNgxhwIb27DRk43v5NFPaF",
     ExReload: "",
     Name: "Aris-Maid",
     Kname: "아리스(메이드)",

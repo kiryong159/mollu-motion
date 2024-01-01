@@ -218,6 +218,8 @@ export const localDB61_80 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1M0VCIcmbNlxi5E6Tv_-b4pjPt5I4m4qo",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1xbzPQ2nJ32M-7kzkxnMbvBtyT-0KZGfX",
     Cafe2Webm:
       "https://drive.google.com/uc?export=view&id=1_PvNjeRC4wxeuCq7OSxmXmq337rtibeu",
     ExReload:
@@ -322,8 +324,12 @@ export const localDB61_80 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=14GP6zU29l4naxFvmNJHb5U_dfjPenzJA",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=13s0_jk6qIuRrGXYuR5iymJeniuu-EJc1",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1GO0YVr3e_Kav9Q-stO_jfElFxV1U0OjX",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=12BCBCXfFqySI1mDvApduO3kBUczPg0Mm",
     ExReload: "",
     Name: "Serika-New",
     Kname: "세리카(새해)",
@@ -348,8 +354,12 @@ export const localDB61_80 = [
       "https://drive.google.com/uc?export=view&id=1UHaWamgrBLPP73yu0rhXGWG51LGecgJq",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1u_6vXmkXZm1D-kY2ShyaYT40pIBXUvzK",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1V7pQibgK4tmkyAH2gWReYnKgNL2K_dEZ",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1CRQd7CWg2JDaDMUv4kvFj2IkuOlRXXxi",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=14jwCCuZKU-30L93Gg-kRQGk8l9JGNfzQ",
     ExReload: "",
     Name: "Wakamo",
     Kname: "와카모",
@@ -448,6 +458,8 @@ export const localDB61_80 = [
     Cafe: "",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=19bscXjvEKqHCcPs7g5ERaPevN3nLqObY",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1BRAyuu8rgCwHMeFQ2Jux2J47zry2lvOd",
     ExReload: "",
     Name: "Hina-Swim",
     Kname: "히나(수영복)",

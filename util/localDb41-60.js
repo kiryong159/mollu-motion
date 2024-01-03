@@ -58,6 +58,8 @@ export const localDB41_60 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1yIxL1NcrRb3V7MapZuZ_9UfWUcIILhuy",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1QuyI4iANou14ML23oRw_nA9fcQsddj7s",
     Cafe2: "",
     ExReload: "",
     Name: "Juri",
@@ -429,8 +431,10 @@ export const localDB41_60 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1yw_R-MKpjx-fObWP_zU1yuzAHBvTElRp",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1I3L-v0wQrARBhvqRpREFzTPlNA4_CqMP",
     ExReload:
       "https://drive.google.com/uc?export=view&id=1XOoVGcdjJwBPkP45T1r6qqmJF0b4ABeV",
     Name: "Tsurugi-Swim",

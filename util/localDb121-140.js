@@ -218,7 +218,8 @@ export const localDB121_140 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1h9ZTz9qaIWMWdGzO6UtP61H-uJwrPQPh",
     Object: "",
-    Cafe: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1fmUlYt-fCUXkENeSIz8gqU9It3BHuOyB",
     Cafe2: "",
     ExReload: "",
     Name: "Koharu",
@@ -304,9 +305,12 @@ export const localDB121_140 = [
     Ns: "https://drive.google.com/uc?export=view&id=11bHenmHydzqA8bNZt-FZTvwHcB_3RBVb",
     Pick: "https://drive.google.com/uc?export=view&id=1MASlpu8pwunpHe5xkgG7eFZjSw1EX7Lg",
     Object: "",
-    Cafe: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1OwT5ujhjMIbsrDEjDGF18ubLURSlMNtJ",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=137EoFhOIZWwmUMYYp81fuFY5kLT44l4L",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1LEHb9P4MeUg2wb81oweRUGGJuG5oAc61",
     Cafe3: "",
     Ex: "https://drive.google.com/uc?export=view&id=170C5UeGz56-qMSxHjXq7XNdWqLSqSeP1",
     ExAttack: "",
@@ -422,7 +426,8 @@ export const localDB121_140 = [
     Ns: "",
     Pick: "",
     Object: "",
-    Cafe: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=16OtsMasa1hSpXMMJmput-aIwGUzrUeMG",
     Cafe2: "",
     Cafe3: "",
     Ex: "https://drive.google.com/uc?export=view&id=1uXEkRSChpO0g-AKIyj980LzzoO5wDt2R",

@@ -81,7 +81,8 @@ export const localDB141_160 = [
     Pick: "https://drive.google.com/uc?export=view&id=1n4pgskiRMurGomvJrFOB4r_iHWFsJ0dV",
     Object: "",
     Cafe: "",
-    Cafe2Webm: "",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1mVbmkBElnTER_6dQHTaRwgY1EBX41Djy",
     Cafe3Webm: "",
     Ex: "https://drive.google.com/uc?export=view&id=1PGzqaxpJcral0EcncojBlYOm1r3QOgwR",
     ExAttack: "",
@@ -111,6 +112,8 @@ export const localDB141_160 = [
     Pick: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1vUxinMlFE80TqRaWHswoC39czMw5hAqJ",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1Mb_vcMxwKIJtoVo0bj5W4jm5hgE__EHC",
     Cafe2Webm:
       "https://drive.google.com/uc?export=view&id=1Riq4VUJQilPvi8OlzCn2ijvD4huDpYpG",
     Cafe3Webm: "",

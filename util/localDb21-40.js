@@ -174,8 +174,12 @@ export const localDB21_40 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1bG7q9xP61yJjuQlXBs57AQrIqECsO_fe",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1de-N6-Ry9m-E05rE_6y5M9V3-MB4E_7o",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1_-Y7VDt5y_vAS5K_D2wLlJofOsqxD5hu",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=148bUf0ke6rF_da8A2XS4uN60EAw5gCVD",
     ExReload: "",
     Name: "Haruka",
     Kname: "하루카",
@@ -273,8 +277,12 @@ export const localDB21_40 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1miCLSwOMaPZD556k2m1_o6ELIiAY2yPS",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1A82FA1h8E5ngdpzjr8m5EV7aXHNb7MvG",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1KM2kOIK-CwFhyQgOjMwvIUqYHVyXfHfy",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=17S1x2BwYf09hqv_YP3f34dA638hz1AXn",
     ExReload: "",
     Name: "Pina",
     Kname: "피나",

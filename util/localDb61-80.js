@@ -148,8 +148,12 @@ export const localDB61_80 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=16bdXAI62oaw1OTuV7_7m0NfEDyqgFQDX",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1XqExx34KANNV0qFG9nTZF860wDQkyw1e",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1JEt1P5rVsHkqCNvflcLX72qWe9TnAlW0",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=10dPG-uhLpFQvcvA5Gwg7rTZ_6diUD4Pu",
     ExReload: "",
     Name: "Natsu",
     Kname: "나츠",

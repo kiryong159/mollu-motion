@@ -417,7 +417,8 @@ export const localDB21_40 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "https://drive.google.com/uc?export=view&id=1zhBBkgi1d6tX6hDj98n2BpRCh4DzdtNh",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=122OyzXj3R3s_Inyvl2n9wIQmUs6HB4Vs",
     Cafe2: "",
     ExReload: "",
     Name: "Hanae",
@@ -482,8 +483,10 @@ export const localDB21_40 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "https://drive.google.com/uc?export=view&id=1LQjk95DYss71hNQJOmpqu7aQ9iMm5BYJ",
-    Cafe2: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=11dQU6cRGskl_LO00B1qK3YhbMoqXX_lN",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=16_rB8gAafm9RK5pWhtVUkEsZTf-0pCdH",
     ExReload: "",
     Name: "Ayane",
     Kname: "아야네",

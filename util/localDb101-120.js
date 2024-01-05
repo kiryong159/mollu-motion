@@ -147,8 +147,12 @@ export const localDB101_120 = [
     Object:
       "https://drive.google.com/uc?export=view&id=14IA33cWo5hKrmFa3yM6ydnbxlfo5zzDn",
     Cafe: "https://drive.google.com/uc?export=view&id=18H_mvXkkvoScGi3rB4UESMbpTlFJw_IE",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1X-4u64Jey4_8kwmJskSy2muAfarhlwuK",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1U2dTwALxPxcPUUkJzMM2BO1RF4wMZzcy",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1gdag2zhvL8bUchGly5dSYv7AU3ni4uQw",
     ExReload: "",
     Name: "Mari-Track",
     Kname: "마리(체육복)",
@@ -451,8 +455,12 @@ export const localDB101_120 = [
       "https://drive.google.com/uc?export=view&id=1pKzXRqh8oue1qfVSjANu0MRxDng6KXzz",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1S2Aodv7tvsGTn-sqoTfKap-Q9TA8ccWu",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=19UmY8g_KXHCwYVYYKzvCiMwJwz3qAUCb",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1VGNwzc-ZieYZMz7zxoeghCQ-vYLY7DLo",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1tjk4eXDfr-OjIIyLJf6mpyCr7cTpuh3y",
     ExReload: "",
     Name: "Mika",
     Kname: "미카",

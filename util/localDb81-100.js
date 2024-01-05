@@ -205,8 +205,12 @@ export const localDB81_100 = [
     Object:
       "https://drive.google.com/uc?export=view&id=1W5VFzwtvczwIy4AccdQfpwefUPSBdktq",
     Cafe: "https://drive.google.com/uc?export=view&id=1EjkCX7GaEEiVC-gMeH07mJcvLyQLewHL",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1EjjWcpAfmeFOFubmkLewV1sZ37DXeTcm",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1kxyGVDbzxe9KkWlP21u1ONvMAnveoS_T",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1apKBF6AgBhZnsqwx0w0GiuyKfubxbO1U",
     ExReload: "",
     Name: "Michiru",
     Kname: "미치루",

@@ -48,8 +48,10 @@ export const localDB141_160 = [
     Ns: "https://drive.google.com/uc?export=view&id=1PNn3zvjT8lOdwJlxCe3DOHhI_1OdTLyS",
     Pick: "https://drive.google.com/uc?export=view&id=1m7QjRDT4UtUOpfXYUnrr0SJJgN9gLPvX",
     Object: "",
-    Cafe: "",
-    Cafe2Webm: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1Fa2DifB8Z5fgIw0uzwc6HRQZT3SykBSD",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1L8LUXnRnAh9c0TYB6ecwa3UFsQxYCN_7",
     Cafe3Webm: "",
     Ex: "https://drive.google.com/uc?export=view&id=1X9uX8X_rTWbRMZsZzU6ZtTY20N4CEu9S",
     ExAttack: "",

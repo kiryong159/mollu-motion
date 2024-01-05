@@ -150,9 +150,10 @@ export const localDB41_60 = [
       "https://drive.google.com/uc?export=view&id=1PuhzMIOhMgYnHQ0Y_G5Xv5H8UGdLcn8l",
     Object:
       "https://drive.google.com/uc?export=view&id=1P5jxcQFL189QEGABazIP0-3AUAOzxQcP",
-    Cafe: "https://drive.google.com/uc?export=view&id=1edUiqzwUCKj8wiJfQZwRAlUJxrvHlNUX",
-    Cafe2:
-      "https://drive.google.com/uc?export=view&id=1wmqg9DRGNe2SCNdoHnKzvv9SjfCEv-xL",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1S9HcosM7LOoaEMSFFcGd9G_lJrzSjGWR",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1RqRQCxFup0qNPMqnMjY5yBtzeO2R2nwj",
     ExReload: "",
     Name: "Izuna",
     Kname: "이즈나",
@@ -173,8 +174,12 @@ export const localDB41_60 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1ZZvSDvsXCnWuHIo4qWnVDCCkwYW7xSS8",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=17FV05dxZpoX35vfdrp-P6SycebHCjsno",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1FrLHj8iKZELse2VTFkQAJEI6eq_1IXq4",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1Gqixqh8CBPj8aS7Ds9J0Ur--aYah3urx",
     ExReload: "",
     Name: "Shizuko",
     Kname: "시즈코",
@@ -197,10 +202,16 @@ export const localDB41_60 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Fnq6NKKxorzWaY0DjfztHNCEkAJTougq",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1CiAJCjnMjUTdIzEozsOFDSkKBPiT0PKJ",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1J_A3slD40sd7HcopJlIiKdS3zeTyrECJ",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1WAPtZjAfvZ0Ukss6ShlbGCpTjOo9pEYl",
     Cafe3:
       "https://drive.google.com/uc?export=view&id=1-yYvkkFZ9PSqLq2sp6zIeKE1dn-Ry5nW",
+    Cafe3Webm:
+      "https://drive.google.com/uc?export=view&id=1pPvRVbRgaA7-pWfP7oCBMfzZKy884Fmw",
     ExReload: "",
     Name: "Aris",
     Kname: "아리스",

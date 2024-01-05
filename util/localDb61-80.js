@@ -17,7 +17,8 @@ export const localDB61_80 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=15gq-xhaDmCPwSDssmRbuRxnNDTE8bMqc",
     Object: "",
-    Cafe: "https://drive.google.com/uc?export=view&id=1oZ0Kl85HTEIhWZGIaGQ2gEqSO4YfHWQa",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1O_vjd0qYP5D32S0oPTqUEWIBeQXV0Txe",
     Cafe2: "",
     ExReload: "",
     Name: "Shun-Small",
@@ -43,6 +44,8 @@ export const localDB61_80 = [
       "https://drive.google.com/uc?export=view&id=1p4rqeK-6e10_OIOFERaHCiK3Amx6Ey7q",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Dcm55ce4ldLIsoxBZEIDb2OEQWICNAGM",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1_14Ms3lyF9DJ_7ix-s28prEUmPghsOUf",
     Cafe2: "",
     ExReload: "",
     Name: "Kirino",
@@ -437,8 +440,10 @@ export const localDB61_80 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1EpnpSWSu1H0uAMY5go4XqjsZHAvqQlcw",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1XEB3e6wOaTzPvXSu9H02a8Tta4EtT3TJ",
     ExReload: "",
     Name: "Chihiro",
     Kname: "치히로",

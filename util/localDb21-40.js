@@ -150,7 +150,8 @@ export const localDB21_40 = [
     HideReload:
       "https://drive.google.com/uc?export=view&id=1iVyOZymcOg1E_IEPvVRQmZo5A-hz_r0O",
     Object: "",
-    Cafe: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1TxFAT6PMjQ8eSDx0VCXCZLml2MfS0p2X",
     Cafe2: "",
     ExReload: "",
     Name: "Yuuka",
@@ -325,7 +326,8 @@ export const localDB21_40 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "https://drive.google.com/uc?export=view&id=1mgEcFMwcMUFoB8D7mHCKTXth5G5FgZ9H",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1vS6LU_otU-7y2xSK1-E_Pm1AVz4tm59c",
     Cafe2: "",
     ExReload: "",
     Name: "Karin",
@@ -395,7 +397,8 @@ export const localDB21_40 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "https://drive.google.com/uc?export=view&id=1bwCfGYpI4eP73aSJ1dKLR7zrKaZmgFZq",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1P5jGht-LOkL8Ckb3aKDyquigWg_OjwPS",
     Cafe2: "",
     ExReload: "",
     Name: "Fuuka",

@@ -80,7 +80,8 @@ export const localDB41_60 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "https://drive.google.com/uc?export=view&id=1vs3VxPGxjvNrzzCGY5bd8aKNULhPldgd",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1lPJ3TAJ0c3761ipoBHB7HFPCIKako_NS",
     Cafe2: "",
     ExReload: "",
     Name: "Serina",
@@ -418,8 +419,12 @@ export const localDB41_60 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1Rninnlh-IMVgCxjZbOh6Ey6QI6gZT1NG",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1l-YrkonVcYDd2ckKQoUxtCUwEhE0sD2Q",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1-0AUV5ReQAqrfCQ0wZhMpBMACdCBx7J-",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1qQQDgZy5WQHTbSxv10JojU8uFg-YkzMR",
     ExReload: "",
     Name: "Mashiro-Swim",
     Kname: "마시로(수영복)",

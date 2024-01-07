@@ -101,8 +101,12 @@ export const localDB61_80 = [
       "https://drive.google.com/uc?export=view&id=1nnf5YmL-YuFElnDRRlBrsKXI_v2AMsvF",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1cTPW2g-Vm7y0NKDycyUBEFul8cJTuJij",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1Ccm3H8Xh1n_Mw4pxdn89AL3XZ9RhWM1l",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1-Eiawwa8p5bxXl3tJks5am0Cu5kevpKd",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=11NsDZtsnYHUGhGTBg3255t8Sbt8MMes0",
     ExReload: "",
     Name: "Karin-Bunny",
     Kname: "카린(바니걸)",
@@ -202,8 +206,10 @@ export const localDB61_80 = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "",
-    Cafe2: "",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1hoHhZ42mVqvHnia-NO9zjo_t-EpsFjDO",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1xdFv2um8isF4pvHBv45Jh9Dbn14imr8w",
     ExReload: "",
     Name: "Ako",
     Kname: "아코",

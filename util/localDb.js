@@ -39,8 +39,12 @@ export const localDB = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1KsM3_tOFLlPJMl0GKayf_xJMhoKVWfYQ",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1CjVWwn6Fff-gcOsbo4EDVKAk0WnkG8j2",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1bPnCpmhHAIiqoM_lQOS52cCTJlGfeNex",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1byKri_UiTnrRcj0_u8lWxS-yUInXb7pg",
     ExReload: "",
     Name: "Aru_New",
     Kname: "아루(새해)",

@@ -81,8 +81,12 @@ export const localDB101_120 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1ue-oQakQEKo1ajj3-OFHj3Wwheg8fa7m",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1Jx3kkXRn0q26oX_JV8ahmf_kPq1cLduZ",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1BO9Oo9XWl8RFWerwohTmUqfWdexni9Lu",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1iYLqadMsW-Au47Ve4ZTkOVEnoPd2D7Ww",
     ExReload: "",
     Name: "Akane-Bunny",
     Kname: "아카네(바니걸)",
@@ -490,8 +494,12 @@ export const localDB101_120 = [
     HideReload: "",
     Object: "",
     Cafe: "https://drive.google.com/uc?export=view&id=1GuZyC-Dev9tjPtZCSgKzHkAXpgOX5wYr",
+    CafeWebm:
+      "https://drive.google.com/uc?export=view&id=1Xpzrwyuw0DqK0bCdgN8tUKOSriC4P-nj",
     Cafe2:
       "https://drive.google.com/uc?export=view&id=1FAlHO6vC1_4Zt5ZLyoz_ioS4gnJ_pAXH",
+    Cafe2Webm:
+      "https://drive.google.com/uc?export=view&id=1bUzX2ZkIZGwITApaWZupnZaT0z7Z2dQL",
     ExReload: "",
     Name: "Megu",
     Kname: "메구",

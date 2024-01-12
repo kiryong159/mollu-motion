@@ -14,6 +14,21 @@ const nextConfig = {
         port: "",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "doc-0s-4s-docs.googleusercontent.com/",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "googleusercontent.com/",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "drive.usercontent.google.com/",
+        pathname: "/**",
+      },
     ], // 이미지 호스트명 추가
   },
 };

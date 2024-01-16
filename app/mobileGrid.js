@@ -31,11 +31,11 @@ export default function MobileGrid() {
   }, []); */
 
   return (
-    <div className=" flex items-center justify-center bg-gray-500 text-white  rounded-md shadow-md px-3 py-2 ">
+    <div className="group flex items-center justify-center bg-gray-500 text-white  rounded-md shadow-md px-3 py-2 hover:cursor-pointer hover:scale-105 transition-all hover:bg-purple-200 hover:text-black">
       {oneLine === true ? (
         <button
           onClick={GridLineFn}
-          className="w-full bg-gray-500 text-white  rounded-md shadow-md px-3 py-2 flex  justify-center items-center space-x-3 hover:cursor-pointer hover:scale-105 transition-all hover:bg-purple-200 hover:text-black"
+          className="w-full bg-gray-500 text-white px-3 py-2 flex  justify-center items-center space-x-3 group-hover:bg-purple-200 transition-all group-hover:text-black group-hover:scale-105"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -59,7 +59,7 @@ export default function MobileGrid() {
       ) : (
         <button
           onClick={oneLineFn}
-          className="bg-gray-500 text-white  rounded-md shadow-md px-3 py-2 flex flex-col justify-center items-center space-y-3 hover:cursor-pointer hover:scale-105 transition-all hover:bg-purple-200 hover:text-black"
+          className="bg-gray-500 text-white  px-3 py-2 flex flex-col justify-center items-center space-y-3  group-hover:scale-105 transition-all group-hover:bg-purple-200 group-hover:text-black"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"

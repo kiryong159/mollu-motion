@@ -18,9 +18,11 @@ export default function Card({ thumbSrc, name, nameEn }) {
         alt="thumbImg"
       />
       {name.length > 9 ? (
-        <span className="font-bold text-[19px]">{name}</span>
+        <span className="font-bold text-[18px] xl:text-[16px]  whitespace-pre">
+          {name}
+        </span>
       ) : (
-        <span className="font-bold text-[20px]">{name}</span>
+        <span className="font-bold text-[20px]  whitespace-pre">{name}</span>
       )}
     </Link>
   );

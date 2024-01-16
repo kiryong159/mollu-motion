@@ -794,7 +794,7 @@ export const localDB101_200 = [
     Pick: "/image/Noa/Noa-Pick.webp",
     Object: "",
     Cafe: "",
-    Cafe2: "/image/Noa/Noa-Cafe2.webp",
+    Cafe2Webm: "/image/Noa/Noa-Cafe5.webm",
     Cafe3: "",
     Ex: "/image/Noa/Noa-Ex.webp",
     ExAttack: "",

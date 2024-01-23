@@ -46,12 +46,11 @@ export default function Notice() {
         <details>
           <summary>
             <span className="text-red-300 hover:cursor-pointer hover:text-red-400 transition-all">
-              12.27 수정 내용
+              01.23 수정 내용
             </span>
           </summary>
           <ul className="px-4">
-            <li>카페,가구 Webp(gif) 에서 동영상 으로 교체 진행중 </li>
-            <li>유즈 기본 모션 추가</li>
+            <li>수로코 기본 모션 추가</li>
           </ul>
         </details>
 

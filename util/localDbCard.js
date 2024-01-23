@@ -717,4 +717,9 @@ export const localDbCard = [
     name: "미유(수영복)",
     nameEn: "Miyu-Swim",
   },
+  {
+    thumbSrc: "/image/Shiroko_Swim/Shiroko_Swim-Thumb2.webp",
+    name: "시로코(수영복)",
+    nameEn: "Shiroko-Swim",
+  },
 ];

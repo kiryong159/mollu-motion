@@ -1151,5 +1151,32 @@ export const localDB101_200 = [
     Name: "Miyu-Swim",
     Kname: "미유(수영복)",
   },
-  /* 144까지 */
+  {
+    Win: "",
+    Win2: "",
+    Start: "/image/Shiroko_Swim/Shiroko_Swim-Start.webp",
+    Start2: "/image/Shiroko_Swim/Shiroko_Swim-Start2.webp",
+    Reload: "",
+    Reload2: "",
+    Attack: "",
+    Ns: "",
+    Pick: "",
+    Object: "",
+    CafeWebm: "/image/Shiroko_Swim/Shiroko_Swim-Cafe0.webm",
+    /*     Cafe2Webm: "/image/Shiroko_Swim/Shiroko_Swim-Cafe5.webm", */
+    Cafe3Webm: "",
+    Ex: "/image/Shiroko_Swim/Shiroko_Swim-Ex.webp",
+    ExAttack: "",
+    ExReload: "",
+    ExNs: "",
+    Ex2: "",
+    Hide: "",
+    HideAttack: "",
+    HideReload: "",
+    HideReload2: "",
+    Event: "",
+    Name: "Shiroko-Swim",
+    Kname: "시로코(수영복)",
+  },
+  /*수로코 145 */
 ];

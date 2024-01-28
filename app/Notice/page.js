@@ -20,16 +20,14 @@ export default function Notice() {
 
       <div className="p-5 space-y-3 text-[15px] md:text-[25px] bg-gray-500 rounded-md leading-6 md:leading-10 ">
         <p className="text-red-300">Q : 데이터 얼마정도 사용됨?</p>
-        <p>
-          A : 카페 가구 까지 있는애들은 18Mb 근처 없는애들은 10Mb 근처라고
-          생각하면될듯? (접힌거 안펼쳐도 사진은 전부 다운받음)
-        </p>
+        <p>A : 10 ~ 20Mb 사이로 사용될듯?</p>
 
         <p className="text-red-300">Q : 왜케 화질구지 임? </p>
         <p>
           A : 용량 문제로 사진 을 최소한 의 크기로 만들어서 저장 한걸 웹에서
           늘렸기 때문에 화질구지임
         </p>
+
         <p className="text-red-300">Q : 왜케 끊김 ? </p>
         <p>
           A : 이것도 용량문제로 크기를 너무줄이면 안보일까봐 프레임을 줄인 경우

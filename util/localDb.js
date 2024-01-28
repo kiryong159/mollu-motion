@@ -834,7 +834,7 @@ export const localDB = [
     HideAttack: "",
     HideReload: "",
     Object: "",
-    Cafe: "/image/Shimiko/Shimiko-Cafe.webp",
+    CafeWebm: "/image/Shimiko/Shimiko-Cafe0.webm",
     Cafe2: "",
     ExReload: "",
     Name: "Shimiko",
@@ -1697,7 +1697,7 @@ export const localDB = [
     Start2: "",
     Cafe3: "",
     Ex2: "",
-    Win2: "",
+    Win2: "/image/Tsukuyo/Tsukuyo-Win2.webp",
   },
   {
     Win: "/image/Atsuko/Atsuko-Win.webp",

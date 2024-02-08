@@ -3,7 +3,7 @@ import BackBtn from "./backBtn";
 
 export default function Nav() {
   return (
-    <div className="flex fixed top-0 w-full bg-gray-600 text-white font-bold left-0 right-0 h-[70px]  ">
+    <div className="flex fixed top-0 w-full bg-gray-600 text-white font-bold left-0 right-0 h-[50px]  ">
       <div className="flex mx-auto p-3 w-[315px] sm:w-[635px]  items-center justify-between text-[25px]">
         <BackBtn />
         <Link href={"/"}>

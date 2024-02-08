@@ -722,4 +722,24 @@ export const localDbCard = [
     name: "시로코(수영복)",
     nameEn: "Shiroko-Swim",
   },
+  {
+    thumbSrc: "/image/Hinata_Swim/Hinata_Swim-Thumb2.webp",
+    name: "히나타(수영복)",
+    nameEn: "Hinata-Swim",
+  },
+  {
+    thumbSrc: "/image/Koharu_Swim/Koharu_Swim-Thumb2.webp",
+    name: "코하루(수영복)",
+    nameEn: "Koharu-Swim",
+  },
+  {
+    thumbSrc: "/image/Ui_Swim/Ui_Swim-Thumb2.webp",
+    name: "우이(수영복)",
+    nameEn: "Ui-Swim",
+  },
+  {
+    thumbSrc: "/image/Hanako_Swim/Hanako_Swim-Thumb2.webp",
+    name: "하나코(수영복)",
+    nameEn: "Hanako-Swim",
+  },
 ];

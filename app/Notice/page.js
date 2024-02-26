@@ -5,13 +5,14 @@ export default function Notice() {
 
       <div className="p-5 text-[18px] space-y-7 md:text-[25px] bg-gray-500 rounded-md ">
         <p className="flex w-full mx-auto text-[25px] md:text-[35px] justify-center ">
-          없는캐릭 (12개)
+          없는캐릭 (13개)
         </p>
         <div className="space-y-3 ">
           <p>마시로 , 수사키 , 라로코</p>
           <p>수히나 , 수오리 , 미쿠</p>
           <p>응타하 , 노아 , 하나에(클스)</p>
           <p>칸나 , 사쿠라코 ,카호 </p>
+          <p>수모리 </p>
         </div>
       </div>
 

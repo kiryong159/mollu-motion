@@ -742,4 +742,9 @@ export const localDbCard = [
     name: "하나코(수영복)",
     nameEn: "Hanako-Swim",
   },
+  {
+    thumbSrc: "/image/Meru/Meru-Thumb2.webp",
+    name: "메루",
+    nameEn: "Meru",
+  },
 ];

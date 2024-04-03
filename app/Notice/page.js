@@ -4,21 +4,25 @@ export default function Notice() {
       <span className="mt-3 text-center">알림말</span>
 
       <div className="p-5 text-[18px] space-y-7 md:text-[25px] bg-gray-500 rounded-md ">
+        <h1>최근 업데이트 : 24.04.03</h1>
+      </div>
+      <div className="p-5 text-[18px] space-y-7 md:text-[25px] bg-gray-500 rounded-md ">
         <p className="flex w-full mx-auto text-[25px] md:text-[35px] justify-center ">
-          없는캐릭 (15개)
+          없는캐릭 (16개)
         </p>
         <div className="space-y-3 ">
           <p>마시로 , 수사키 , 라로코</p>
           <p>수히나 , 수오리 , 미쿠</p>
-          <p>응타하 , 노아 , 하나에(클스)</p>
-          <p>칸나 , 사쿠라코 ,카호 </p>
+          <p>응타하 , 칸나 , 하나에(클스)</p>
+          <p>사쿠라코 ,카호 , 코토리(응원)</p>
           <p>수모리, 메루 , 모미지 </p>
+          <p>하루나(체) </p>
         </div>
       </div>
 
       <div className="p-5 space-y-3 text-[15px] md:text-[25px] bg-gray-500 rounded-md leading-6 md:leading-10 ">
         <p className="text-red-300">Q : 데이터 얼마정도 사용됨?</p>
-        <p>A : 10 ~ 20Mb 사이로 사용될듯?</p>
+        <p>A : 10 ~ 30Mb 사이로 사용될듯?</p>
 
         <p className="text-red-300">Q : 왜케 화질구지 임? </p>
         <p>

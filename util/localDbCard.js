@@ -767,4 +767,19 @@ export const localDbCard = [
     name: "카스미",
     nameEn: "Kasumi",
   },
+  {
+    thumbSrc: "/image/Misaka_Mikoto/Misaka_Mikoto-Thumb2.webp",
+    name: "미사카미코토",
+    nameEn: "Misaka-Mikoto",
+  },
+  {
+    thumbSrc: "/image/Shokuhou_Misaki/Shokuhou_Misaki-Thumb2.webp",
+    name: "쇼쿠호미사키",
+    nameEn: "Shokuhou-Misaki",
+  },
+  {
+    thumbSrc: "/image/Saten_Ruiko/Saten_Ruiko-Thumb2.webp",
+    name: "사텐루이코",
+    nameEn: "Saten-Ruiko",
+  },
 ];

@@ -758,6 +758,11 @@ export const localDbCard = [
     nameEn: "Kotori-Cheer",
   },
   {
+    thumbSrc: "/image/Haruna_Track/Haruna_Track-Thumb2.webp",
+    name: "하루나(체육복)",
+    nameEn: "Haruna-Track",
+  },
+  {
     thumbSrc: "/image/Ichika/Ichika-Thumb2.webp",
     name: "이치카",
     nameEn: "Ichika",

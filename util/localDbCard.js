@@ -229,7 +229,11 @@ export const localDbCard = [
     name: "요시미",
     nameEn: "Yoshimi",
   },
-  /*       { thumbSrc:"" ,name:"마시로" ,nameEn:"Mashiro" } */
+  {
+    thumbSrc: "/image/Mashiro/Mashiro-Thumb2.webp",
+    name: "마시로",
+    nameEn: "Mashiro",
+  },
   {
     thumbSrc: "/image/Izuna/Izuna-Thumb2.webp",
     name: "이즈나",
@@ -741,6 +745,11 @@ export const localDbCard = [
     thumbSrc: "/image/Hanako_Swim/Hanako_Swim-Thumb2.webp",
     name: "하나코(수영복)",
     nameEn: "Hanako-Swim",
+  },
+  {
+    thumbSrc: "/image/Mimori_Swim/Mimori_Swim-Thumb2.webp",
+    name: "미모리(수영복)",
+    nameEn: "Mimori-Swim",
   },
   {
     thumbSrc: "/image/Meru/Meru-Thumb2.webp",

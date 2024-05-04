@@ -4,19 +4,19 @@ export default function Notice() {
       <span className="mt-3 text-center">알림말</span>
 
       <div className="p-5 text-[18px] space-y-7 md:text-[25px] bg-gray-500 rounded-md ">
-        <h1>최근 업데이트 : 24.05.03</h1>
+        <h1>최근 업데이트 : 24.05.04</h1>
       </div>
       <div className="p-5 text-[18px] space-y-7 md:text-[25px] bg-gray-500 rounded-md ">
         <p className="flex w-full mx-auto text-[25px] md:text-[35px] justify-center ">
-          없는캐릭 (15개)
+          없는캐릭 (12개)
         </p>
         <div className="space-y-3 ">
-          <p>마시로 , 라로코</p>
+          <p>라로코</p>
           <p>수히나 , 수오리 , 미쿠</p>
-          <p>응타하 , 칸나 , 하나에(클스)</p>
-          <p>사쿠라코 ,카호 , 코토리(응원)</p>
-          <p>수모리, 메루 , 모미지(가구) </p>
-          <p>시구레(온) </p>
+          <p>응타하 , 칸나 </p>
+          <p>사쿠라코 ,카호 </p>
+          <p>수모리(가구), 메루(카페) , 모미지(가구) </p>
+          <p>온구레 </p>
         </div>
       </div>
 
